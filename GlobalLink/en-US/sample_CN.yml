@@ -1,0 +1,9 @@
+#L10N NOTES: plural_other
+"global.name": "姓名"
+
+#L10N NOTES: plural_none
+"global.name1": "名称"
+
+"global.mobile_number": "手机号码"
+"global.mobile_number1": "手机"
+"global.email_address": "邮箱地址"
