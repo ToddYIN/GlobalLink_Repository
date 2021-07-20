@@ -1,7 +1,7 @@
 {
   "apps/app-admin-accounts/src/login/LoginInvalidErrorMessage.tsx": [
     {
-      "defaultMessage": "Your login credentials were incorrect, please try again - UPDATE 06102021",
+      "defaultMessage": "Your login credentials were incorrect, please try again - UPDATE 07202021",
       "id": "login.message.login_error"
     }
   ],
