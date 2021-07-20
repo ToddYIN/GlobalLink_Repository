@@ -1,7 +1,7 @@
 {
   "apps/app-admin-accounts/src/login/LoginInvalidErrorMessage.tsx": [
     {
-      "defaultMessage": "Vos identifiants de connexion étaient incorrects, veuillez réessayer - MISE À JOUR 06102021",
+      "defaultMessage": "Vos identifiants de connexion étaient incorrects, veuillez réessayer - MISE À JOUR 07202021",
       "id": "login.message.login_error"
     }
   ],
@@ -195,7 +195,7 @@
   ],
   "apps/app-admin-inventory/src/dim/components/NetPriceModal/NetPriceInput.tsx": [
     {
-      "defaultMessage": "{count, plural, one {{count} listings} other {{count} }}listings",
+      "defaultMessage": "{count, plural, one {{count} listings} other {{count} listings}}",
       "id": "dim.netPriceInput.listings"
     }
   ],
@@ -733,7 +733,7 @@
       "id": "account.payment.deletePaymentErrorSupportInfo"
     },
     {
-      "defaultMessage": "Nous n'avons pas pu autoriser votre carte de crédit. Veuillez contacter votre société de carte de crédit ou votre banque pour obtenir de l’aide pour autoriser votre carte de crédit ou réessayez avec un autre moyen de paiement.",
+      "defaultMessage": "Nous n'avons pas pu autoriser votre carte de crédit. Veuillez contacter la société de votre carte de crédit ou votre banque pour obtenir de l’aide afin d’autoriser votre carte de crédit ou réessayez avec un autre moyen de paiement.",
       "id": "account.payment.payment3dsFailure"
     },
     {
@@ -1293,7 +1293,7 @@
       "id": "bomt.paymentErrors.default"
     },
     {
-      "defaultMessage": "Nous n'avons pas pu autoriser votre carte de crédit. Veuillez contacter votre société de carte de crédit ou votre banque pour obtenir de l’aide pour autoriser votre carte de crédit ou réessayez avec un autre moyen de paiement.",
+      "defaultMessage": "Nous n'avons pas pu autoriser votre carte de crédit. Veuillez contacter la société de votre carte de crédit ou votre banque pour obtenir de l’aide afin d’autoriser votre carte de crédit ou réessayez avec un autre moyen de paiement.",
       "id": "bomt.paymentErrors.errorWith3ds"
     },
     {
@@ -1363,7 +1363,7 @@
       "id": "bomt.BuyerOmtItem.salePrice"
     },
     {
-      "defaultMessage": "Réf UGS :",
+      "defaultMessage": "Réf. UGS :",
       "id": "bomt.BuyerOmtItem.skuRef"
     },
     {
@@ -1465,7 +1465,7 @@
       "id": "bomt.BuyerOmtConfirmChargeModal.balanceDue"
     },
     {
-      "defaultMessage": "Terminer l'achat",
+      "defaultMessage": "Achèvement de l'achat",
       "id": "bomt.BuyerOmtConfirmChargeModal.completePurchase"
     },
     {
@@ -1633,7 +1633,7 @@
   ],
   "apps/app-buyer-commerce/src/bomt/views/modals/counter/BuyerOmtCounterModal.jsx": [
     {
-      "defaultMessage": "Offre de comptoir",
+      "defaultMessage": "Offre compteur",
       "id": "bomt.BuyerOmtCounterModal.counterOffer"
     }
   ],
@@ -1809,7 +1809,7 @@
       "id": "bomt.BuyerOmtActionRequired.acceptOffer"
     },
     {
-      "defaultMessage": "Terminer l'achat",
+      "defaultMessage": "Achèvement de l'achat",
       "id": "bomt.BuyerOmtActionRequired.completePurchase"
     },
     {
@@ -1883,7 +1883,7 @@
       "id": "bomt.BuyerOmtOrderActions.cancelTitle"
     },
     {
-      "defaultMessage": "Offre de comptoir",
+      "defaultMessage": "Offre compteur",
       "id": "bomt.BuyerOmtOrderActions.counterOffer"
     },
     {
@@ -2255,7 +2255,7 @@
       "id": "bomt.BuyerOmtSidemark.editShort"
     },
     {
-      "defaultMessage": "Marqueur",
+      "defaultMessage": "Marque-page",
       "id": "bomt.BuyerOmtSidemark.sidemark"
     }
   ],
@@ -2283,7 +2283,7 @@
       "id": "CartEmpty.loggedOut.register"
     },
     {
-      "defaultMessage": "pour voir votre panier",
+      "defaultMessage": "pour afficher votre panier",
       "id": "CartEmpty.loggedOut.toView"
     },
     {
@@ -2487,7 +2487,7 @@
   ],
   "apps/app-buyer-commerce/src/cart/item/priceTable/CartShippingTooltip.jsx": [
     {
-      "defaultMessage": "{vertical, select, art {La plupart des galeries préfèrent citer les expéditions après avoir connu votre emplacement. Le devis sera envoyé par e-mail pour votre approbation 24 à 48 heures après votre } other {départ.La plupart des concessionnaires préfèrent établir un devis d’expédition après avoir connu votre emplacement. Le devis sera envoyé par e-mail pour votre approbation 24 à 48 heures après votre départ.}}",
+      "defaultMessage": "{vertical, select, art {La plupart des galeries préfèrent faire un devis d’expédition après qu’elles connaissent votre emplacement. Le devis sera envoyé par e-mail pour votre approbation 24 à 48 heures après votre } other {départ.La plupart des revendeurs préfèrent établir un devis d’expédition après avoir connu votre emplacement. Le devis sera envoyé par e-mail pour votre approbation 24 à 48 heures après votre départ.}}",
       "id": "CartShippingTooltip.message1"
     },
     {
@@ -2575,7 +2575,7 @@
       "id": "checkout.CheckoutProcessingPage.processingMessage"
     },
     {
-      "defaultMessage": "Vous avez gagné points ! Maintenant, vous êtes encore plus proche de votre prochaine récompense commerciale.",
+      "defaultMessage": "Vous avez gagné des points ! Maintenant, vous êtes encore plus proche de votre prochaine récompense commerciale.",
       "id": "checkout.CheckoutProcessingPage.tpnTradeLoyaltyRewardsEnrolled"
     },
     {
@@ -2617,7 +2617,7 @@
       "id": "checkout.BuyerCustomQuote.customQuoteFullPrice"
     },
     {
-      "defaultMessage": "Vous serez facturé uniquement si le revendeur accepte votre offre et choisit de fournir une livraison gratuite. Sinon, si votre offre est acceptée, il vous sera demandé d’approuver les frais d’expédition avant que votre méthode de paiement ne soit facturée.",
+      "defaultMessage": "Vous serez facturé uniquement si le concessionnaire accepte votre offre et choisit de fournir une livraison gratuite. Sinon, si votre offre est acceptée, il vous sera demandé d’approuver les frais d’expédition avant que votre méthode de paiement ne soit facturée.",
       "id": "checkout.BuyerCustomQuote.customQuoteNegotiate"
     },
     {
@@ -2857,7 +2857,7 @@
       "id": "checkout.CheckoutRegistrationForm.policy"
     },
     {
-      "defaultMessage": "J'ai lu et j'accepte 1stDibs' {agreement} et {policy}.",
+      "defaultMessage": "J'ai lu et j'accepte les documents 1stDibs' {agreement} et {policy}.",
       "id": "checkout.CheckoutRegistrationForm.terms"
     },
     {
@@ -2907,7 +2907,7 @@
       "id": "checkout.Password.fullAccountPlaceholder"
     },
     {
-      "defaultMessage": "La combinaison e-mail/mot de passe ne correspond pas à nos dossiers. {link}",
+      "defaultMessage": "La combinaison e-mail/mot de passe ne correspond pas à nos enregistrements. {link}",
       "id": "checkout.Password.invalid"
     },
     {
@@ -2931,7 +2931,7 @@
   ],
   "apps/app-buyer-commerce/src/checkout/components/payment/CheckoutBankAccountList.tsx": [
     {
-      "defaultMessage": "Masquer tous les comptes sauvegardés",
+      "defaultMessage": "Masquer tous les comptes enregistrés",
       "id": "checkout.CheckoutBankAccountList.hideList"
     },
     {
@@ -2957,7 +2957,7 @@
       "id": "checkout.CheckoutBankAccounts.all.line1"
     },
     {
-      "defaultMessage": "Virement ou envoi d'un chèque par courrier",
+      "defaultMessage": "Virement bancaire ou envoi d’un chèque par courrier",
       "id": "checkout.CheckoutBankAccounts.all.wireOrCheckLink"
     },
     {
@@ -2973,7 +2973,7 @@
       "id": "checkout.CheckoutBankAccounts.wire.line2"
     },
     {
-      "defaultMessage": "Des questions ? Appelez 1stDibs au +1 877-721-3427 de 9h à 17h ET, ou envoyez un e-mail à payments@1stdibs.com.",
+      "defaultMessage": "Des questions ? Appelez 1stDibs au +1 877-721-3427 de 9h à 17h, heure de l’Est, ou envoyez un e-mail à payments@1stdibs.com.",
       "id": "checkout.CheckoutBankAccounts.wire.line3"
     },
     {
@@ -3011,7 +3011,7 @@
       "id": "checkout.CheckoutCheckWrapper.email.line1"
     },
     {
-      "defaultMessage": "Veuillez demander à un représentant de 1stDibs de me contacter pour effectuer cette transaction. La meilleure façon de m'atteindre est \\\\{1.",
+      "defaultMessage": "Veuillez demander à un représentant de 1stDibs de me contacter pour effectuer cette transaction. La meilleure façon de me joindre est \\\\{1.",
       "id": "checkout.CheckoutCheckWrapper.email.line2"
     },
     {
@@ -3055,7 +3055,7 @@
       "id": "checkout.CheckoutCheckWrapper.vip.line2"
     },
     {
-      "defaultMessage": "Si vous avez des questions concernant le paiement par chèque, veuillez appeler {phone} le service du lundi au vendredi, de 9h00 à 17h00, heure de l'Est.",
+      "defaultMessage": "Si vous avez des questions concernant le paiement par chèque, veuillez appeler {phone} le lundi au vendredi, de 9h00 à 17h00, heure de l'Est.",
       "id": "checkout.CheckoutCheckWrapper.vip.line3"
     }
   ],
@@ -3087,7 +3087,7 @@
   ],
   "apps/app-buyer-commerce/src/checkout/components/payment/CheckoutPayPalWrapper.jsx": [
     {
-      "defaultMessage": "Cliquez sur le bouton ci-dessous pour autoriser le paiement via votre compte PayPal. Vous aurez l’occasion d’examiner tous vos détails avant de soumettre votre commande.",
+      "defaultMessage": "Cliquez sur le bouton ci-dessous pour autoriser le paiement via votre compte PayPal. Vous aurez la possibilité d’examiner toutes vos informations avant de soumettre votre commande.",
       "id": "checkout.CheckoutPayPalWrapper.notSelectedHelp"
     },
     {
@@ -3115,7 +3115,7 @@
   ],
   "apps/app-buyer-commerce/src/checkout/components/payment/CheckoutWireTransferWrapper.jsx": [
     {
-      "defaultMessage": "Pour payer directement à partir de votre compte bancaire, appelez le 1stDibs au {phone} de 9h à 17h ET ou envoyez un e-mail à {emailLink}. Nous vous aiderons à configurer vos informations de paiement.",
+      "defaultMessage": "Pour payer directement à partir de votre compte bancaire, appelez le 1stDibs au {phone} de 9h à 17h ou envoyez un e-mail à l’adresse {emailLink}. Nous vous aiderons à configurer vos informations de paiement.",
       "id": "checkout.CheckoutWireTransferWrapper.defaultFullPrice.line1"
     },
     {
@@ -3131,7 +3131,7 @@
       "id": "checkout.CheckoutWireTransferWrapper.email.line1"
     },
     {
-      "defaultMessage": "Veuillez demander à un représentant de 1stDibs de me contacter pour effectuer cette transaction. La meilleure façon de m'atteindre est \\\\{1.",
+      "defaultMessage": "Veuillez demander à un représentant de 1stDibs de me contacter pour effectuer cette transaction. La meilleure façon de me joindre est \\\\{1.",
       "id": "checkout.CheckoutWireTransferWrapper.email.line2"
     },
     {
@@ -3271,7 +3271,7 @@
   ],
   "apps/app-buyer-commerce/src/checkout/components/review/CheckoutReviewTaxExempt.tsx": [
     {
-      "defaultMessage": "Cet achat est exonéré d'impôt, et un certificat de revente valide a été déposé auprès de 1stDibs.",
+      "defaultMessage": "Cet achat est exonéré d’impôt, et un certificat de revente valide a été déposé auprès de 1stDibs.",
       "id": "checkout.CheckoutReviewPane.taxExempt"
     }
   ],
@@ -3283,7 +3283,7 @@
   ],
   "apps/app-buyer-commerce/src/checkout/components/shared/CheckoutBuyerAssuranceContent.jsx": [
     {
-      "defaultMessage": "Nous avons ce qu’il vous faut ! Si votre article n’arrive pas comme décrit ou est endommagé, nous résoudrons le problème et nous nous assurerons que vous êtes satisfait. Veuillez noter que si vous choisissez d’organiser votre propre expédition ou de récupérer l’article en personne, votre article ne sera pas éligible.",
+      "defaultMessage": "Nous vous avons couvert ! Si votre article n’arrive pas comme décrit ou est endommagé, nous résoudrons le problème et nous nous assurerons que vous êtes satisfait. Veuillez noter que si vous choisissez d’organiser votre propre expédition ou de récupérer l’article en personne, votre article ne sera pas éligible.",
       "id": "checkout.CheckoutBuyerAssuranceContent.message"
     }
   ],
@@ -3363,7 +3363,7 @@
       "id": "checkout.CheckoutErrorMessage.3ds1"
     },
     {
-      "defaultMessage": "Nous n'avons pas pu autoriser votre carte de crédit. Veuillez contacter votre société de carte de crédit ou votre banque pour obtenir de l’aide pour autoriser votre carte de crédit ou réessayez avec un autre moyen de paiement.",
+      "defaultMessage": "Nous n'avons pas pu autoriser votre carte de crédit. Veuillez contacter la société de votre carte de crédit ou votre banque pour obtenir de l’aide afin d’autoriser votre carte de crédit ou réessayez avec un autre moyen de paiement.",
       "id": "checkout.CheckoutErrorMessage.3ds2"
     },
     {
@@ -3497,7 +3497,7 @@
       "id": "checkout.CheckoutPaneTitle.shipping"
     },
     {
-      "defaultMessage": "Marqueur",
+      "defaultMessage": "Marque-page",
       "id": "checkout.CheckoutPaneTitle.sidemark"
     }
   ],
@@ -3551,7 +3551,7 @@
       "id": "checkout.CheckoutSalesTaxTooltip.learnMore"
     },
     {
-      "defaultMessage": "Étant donné que vous avez un certificat de revente délivré par l’État, vous pouvez supprimer la taxe sur les ventes dans la section Révision lors du paiement. {link}",
+      "defaultMessage": "Étant donné que vous avez un certificat de revente émis par l’État, vous pouvez supprimer la taxe sur les ventes dans la section Révision lors du paiement. {link}",
       "id": "checkout.CheckoutSalesTaxTooltip.salesTaxTradeBuyer"
     }
   ],
@@ -3871,7 +3871,7 @@
       "id": "confirmation.CheckoutConfirmationHeader.fullPrice"
     },
     {
-      "defaultMessage": "{vertical, select, art {Offre envoyée. En attente de réponse de } other {la galerieOffre envoyée. En attente de réponse }}du concessionnaire",
+      "defaultMessage": "{vertical, select, art {Offre envoyée. En attente de réponse de } other {la galerieOffre envoyée. En attente de réponse du }}concessionnaire",
       "id": "confirmation.CheckoutConfirmationHeader.negotiable"
     },
     {
@@ -3993,7 +3993,7 @@
       "id": "confirmation.CheckoutConfirmationShipping.shippingNote"
     },
     {
-      "defaultMessage": "Marqueur",
+      "defaultMessage": "Marque-page",
       "id": "confirmation.CheckoutConfirmationShipping.sidemark"
     },
     {
@@ -4141,7 +4141,7 @@
   ],
   "apps/app-buyer-commerce/src/invoice/components/containers/InvoiceTable.jsx": [
     {
-      "defaultMessage": "* 1stDibs a collecté la taxe d'utilisation simplifiée des vendeurs sur les transactions imposables\n livrées {displayState} et la taxe sera remise\n au nom du client au {displayState} Département des recettes. Le numéro de compte du programme\n de 1stDibs est SSU-R010181613.",
+      "defaultMessage": "* 1stDibs a collecté la taxe d'utilisation simplifiée des vendeurs sur les transactions imposables\n livrées {displayState} et la taxe sera remise au\n nom du client au {displayState} Département des recettes. Le numéro de compte du programme\n de 1stDibs est SSU-R010181613.",
       "id": "invoice.taxDisclaimer"
     }
   ],
@@ -4441,7 +4441,7 @@
   ],
   "apps/app-buyer-commerce/src/invoice/components/partials/InvoiceSidemarkInfo.jsx": [
     {
-      "defaultMessage": "Marqueur",
+      "defaultMessage": "Marque-page",
       "id": "invoice.InvoiceSidemarkInfo.sidemark"
     }
   ],
@@ -4463,15 +4463,15 @@
       "id": "invoice.InvoiceBuyerProtection.list2"
     },
     {
-      "defaultMessage": "L’un de nos spécialistes assurera le suivi de votre cas dans les 2 jours ouvrables.",
+      "defaultMessage": "L’un de nos spécialistes effectuera un suivi de votre dossier dans les 2 jours ouvrables.",
       "id": "invoice.InvoiceBuyerProtection.list3"
     },
     {
-      "defaultMessage": "Votre spécialiste commercial assurera le suivi de votre cas dans les 2 jours ouvrables.",
+      "defaultMessage": "Votre spécialiste commercial assurera le suivi de votre dossier dans les 2 jours ouvrables.",
       "id": "invoice.InvoiceBuyerProtection.list3Trade"
     },
     {
-      "defaultMessage": "Dans le cas peu probable où l’article de votre commande ne correspondrait pas de manière significative à la description ou aurait été endommagé pendant le transport, veuillez prendre les mesures suivantes :",
+      "defaultMessage": "Dans le cas peu probable où l’article de votre commande n’est pas comme décrit de manière significative ou a été endommagé pendant le transport, veuillez prendre les mesures suivantes :",
       "id": "invoice.InvoiceBuyerProtection.notAsDescribed"
     }
   ],
@@ -4505,13 +4505,13 @@
       "id": "invoice.InvoiceItemView.sellerRef"
     },
     {
-      "defaultMessage": "Réf UGS :",
+      "defaultMessage": "Réf. UGS :",
       "id": "invoice.InvoiceItemView.skuRef"
     }
   ],
   "apps/app-buyer-commerce/src/invoice/components/shared/InvoiceOPOPDisclaimer.jsx": [
     {
-      "defaultMessage": "Veuillez consulter les instructions ci-dessous pour compléter votre commande jusqu’au 1stDibs. N'envoyez pas vos informations de paiement directement aux concessionnaires. Les concessionnaires qui acceptent directement votre paiement enfreignent les conditions de service de 1stDibs et peuvent être retirés du marché. De plus, si vous achetez directement auprès de revendeurs, vous renoncez à la couverture de protection de l'acheteur, ce qui signifie que 1stDibs ne sera pas en mesure de vous aider en cas de dommage à l'article ou de litige lié à votre achat.",
+      "defaultMessage": "Veuillez consulter les instructions ci-dessous pour compléter votre commande jusqu’au 1stDibs. N'envoyez pas vos informations de paiement directement aux concessionnaires. Les concessionnaires qui acceptent directement votre paiement enfreignent les conditions de service de 1stDibs et peuvent être retirés du marché. De plus, si vous achetez directement auprès de concessionnaires, vous renoncez à la couverture de protection de l'acheteur, ce qui signifie que 1stDibs ne sera pas en mesure de vous aider en cas de dommage à l'article ou de litige lié à votre achat.",
       "id": "invoice.InvoiceOPOPDisclaimer.disclaimer"
     },
     {
@@ -4521,7 +4521,7 @@
   ],
   "apps/app-buyer-commerce/src/invoice/components/shared/InvoicePaymentInstruction.jsx": [
     {
-      "defaultMessage": "Pour acheter cet article via PayPal, passez à la page de paiement sur 1stDibs. Sélectionnez PayPal comme méthode de paiement et saisissez vos identifiants PayPal pour finaliser votre commande.",
+      "defaultMessage": "Pour acheter cet article via PayPal, rendez-vous sur la page de paiement sur 1stDibs. Sélectionnez PayPal comme méthode de paiement et saisissez vos identifiants PayPal pour finaliser votre commande.",
       "id": "invoice.InvoicePaymentInstructions.PayPal.instructions"
     },
     {
@@ -4633,7 +4633,7 @@
       "id": "invoice.serviceMethodMessages.descriptions.EXTERNALLY_ARRANGED"
     },
     {
-      "defaultMessage": "Les services de livraison professionnels transporteront soigneusement l’article à votre adresse. La livraison n'inclut pas l'inspection ou le déballage des articles. Vous serez contacté à l’avance pour sélectionner une fenêtre de livraison.",
+      "defaultMessage": "Les services de livraison professionnels transporteront soigneusement l’article à votre adresse. La livraison n'inclut pas l'inspection ou le déballage de l'article. Vous serez contacté à l’avance pour sélectionner une fenêtre de livraison.",
       "id": "invoice.serviceMethodMessages.descriptions.INTERNAL.FREIGHT.FRONT_DOOR"
     },
     {
@@ -4661,7 +4661,7 @@
       "id": "invoice.serviceMethodMessages.descriptions.LOCAL_PICKUP"
     },
     {
-      "defaultMessage": "Les services de livraison professionnels transporteront soigneusement l’article à votre adresse. La livraison n'inclut pas l'inspection ou le déballage des articles. Le service de livraison vous contactera pour programmer une date de livraison et confirmer le délai de rendez-vous.",
+      "defaultMessage": "Les services de livraison professionnels transporteront soigneusement l’article à votre adresse. La livraison n'inclut pas l'inspection ou le déballage de l'article. Le service de livraison vous contactera pour programmer une date de livraison et confirmer le délai de rendez-vous.",
       "id": "invoice.serviceMethodMessages.descriptions.SELLER.FREIGHT.FRONT_DOOR"
     },
     {
@@ -4677,15 +4677,15 @@
       "id": "invoice.serviceMethodMessages.descriptions.SELLER.PARCEL.STANDARD"
     },
     {
-      "defaultMessage": "Les services de livraison professionnels transporteront soigneusement votre article à votre adresse. L’article sera déplacé directement dans la chambre de votre choix et l’emballage sera retiré. Le service de livraison vous contactera pour convenir d’une date de livraison et confirmer le délai de rendez-vous.",
+      "defaultMessage": "Les services de livraison professionnels transporteront soigneusement votre article à votre adresse. L’article sera déplacé directement dans la chambre de votre choix et l’emballage retiré. Le service de livraison vous contactera pour convenir d’une date de livraison et confirmer le délai de rendez-vous.",
       "id": "invoice.serviceMethodMessages.descriptions.SELLER.WHITE_GLOVE.EXPRESS"
     },
     {
-      "defaultMessage": "Les services de livraison professionnels transporteront soigneusement votre article à votre adresse. L’article sera déplacé directement dans la chambre de votre choix et l’emballage sera retiré. Le service de livraison vous contactera pour convenir d’une date de livraison et confirmer le délai de rendez-vous.",
+      "defaultMessage": "Les services de livraison professionnels transporteront soigneusement votre article à votre adresse. L’article sera déplacé directement dans la chambre de votre choix et l’emballage retiré. Le service de livraison vous contactera pour convenir d’une date de livraison et confirmer le délai de rendez-vous.",
       "id": "invoice.serviceMethodMessages.descriptions.SELLER.WHITE_GLOVE.STANDARD"
     },
     {
-      "defaultMessage": "J'organiserai l'expédition avec un expéditeur tiers",
+      "defaultMessage": "Je vais organiser l'expédition avec un expéditeur tiers",
       "id": "invoice.serviceMethodMessages.names.EXTERNALLY_ARRANGED"
     },
     {
@@ -4769,7 +4769,7 @@
       "id": "orderFeedbackContainer.submitButton.editedSurveyText"
     },
     {
-      "defaultMessage": "SOUMETTRE DES COMMENTAIRES",
+      "defaultMessage": "SOUMETTRE UN FEEDBACK",
       "id": "orderFeedbackContainer.submitButton.text"
     },
     {
@@ -4851,7 +4851,7 @@
       "id": "abc.OrderLookupSearchForm.email"
     },
     {
-      "defaultMessage": "Nous n'avons pas trouvé de commande basée sur les informations fournies. Veuillez vous assurer que vous avez correctement saisi tous les champs.",
+      "defaultMessage": "Nous n'avons pas trouvé de commande basée sur les informations fournies. Veuillez vous assurer d’avoir correctement rempli tous les champs.",
       "id": "abc.OrderLookupSearchForm.error"
     },
     {
@@ -5073,7 +5073,7 @@
       "id": "shippingHelpers.rest_of_world_amp"
     },
     {
-      "defaultMessage": "{price} à {regionName}",
+      "defaultMessage": "{price} pour {regionName}",
       "id": "shippingHelpers.shipping_to_amp"
     }
   ],
@@ -5089,7 +5089,7 @@
   ],
   "apps/app-buyer-finding/src/amp/sb/SbAmpViewMoreResults/SbAmpViewMoreResults.jsx": [
     {
-      "defaultMessage": "Voir plus de résultats",
+      "defaultMessage": "Afficher plus de résultats",
       "id": "amp.viewMoreResults"
     }
   ],
@@ -5315,7 +5315,7 @@
       "id": "social.SocialIcons.emailBody"
     },
     {
-      "defaultMessage": "Issu d'une collection de millésimes rares {category} à {url}",
+      "defaultMessage": "Issu d’une collection de millésimes rares {category} à {url}",
       "id": "social.SocialIcons.fashion"
     },
     {
@@ -5405,7 +5405,7 @@
   ],
   "apps/app-buyer-finding/src/finding/SbMobileRefineMenu/SbMobileRefineMenuApplyBar/SbMobileRefineMenuApplyBar.jsx": [
     {
-      "defaultMessage": "{totalResultsCount, plural, one {{totalResultsCount,number} éléments} other {{totalResultsCount,number} trouvés éléments trouvés}}",
+      "defaultMessage": "{totalResultsCount, plural, one {{totalResultsCount,number} éléments trouvés} other {{totalResultsCount,number} éléments trouvés}}",
       "id": "sb.SbMobileRefineMenu.resultsFound"
     },
     {
@@ -5543,7 +5543,7 @@
   ],
   "apps/app-buyer-finding/src/finding/SbRespNotifications/SbRespNotificationUnavailableItem/SbRespNotificationUnavailableItemModal.jsx": [
     {
-      "defaultMessage": "Nous sommes désolés, mais nous {itemName} ne sommes plus disponibles à la vente.",
+      "defaultMessage": "Nous sommes désolés, mais nous ne {itemName} sommes plus disponibles à la vente.",
       "id": "sb.SbRespNotificationUnavailableItemModal.Apology"
     },
     {
@@ -5669,7 +5669,7 @@
       "id": "abt.SbRespTradeSourcingBannerContent.textContent"
     },
     {
-      "defaultMessage": "Vous avez besoin d'aide pour trouver un élément pour votre projet ?",
+      "defaultMessage": "Vous avez besoin d'aide pour trouver un article pour votre projet ?",
       "id": "abt.SbRespTradeSourcingBannerContent.textContentQuestion"
     }
   ],
@@ -5789,7 +5789,7 @@
   ],
   "apps/app-buyer-finding/src/finding/SbSharedRefineMenu/SbSharedRefineMenuRadioSelect/SbSharedRefineMenuRadioSelect.jsx": [
     {
-      "defaultMessage": "{filterName, select, location { } categoryL2 {AnywhereTous {allLabel}} categoryL3 {tous {allLabel}} categoryL4 {tous les {allLabel}} price { } priceTrade {prixTous les } other {prixT}}out prix",
+      "defaultMessage": "{filterName, select, location { } categoryL2 {AnywhereTous {allLabel}} categoryL3 {tous {allLabel}} categoryL4 {tous les {allLabel}} price { } priceTrade {prixTout prix} other {}}",
       "id": "sb.SbMobileRefineMenu.radioSelect.all"
     }
   ],
@@ -6007,7 +6007,7 @@
       "id": "global.TradePromo.freeReturnsPromoText"
     },
     {
-      "defaultMessage": "Livraison gratuite sur votre prochain achat de {minPurchaseAmount} ou plus, avec le code {activePromotionCode}. {expiration}. {detailsLink}",
+      "defaultMessage": "Livraison gratuite pour votre prochain achat de {minPurchaseAmount} ou plus, avec le code {activePromotionCode}. {expiration}. {detailsLink}",
       "id": "global.TradePromo.freeShippingPromoText"
     },
     {
@@ -6113,7 +6113,7 @@
       "id": "pdp.PdpMobilePhotoRequestMoreImages.contactCta"
     },
     {
-      "defaultMessage": "{isVideoOnPdpEnabled, select, true {Demander des images ou vidéos supplémentaires auprès du } false {vendeurDemander des images supplémentaires auprès du vendeur}}",
+      "defaultMessage": "{isVideoOnPdpEnabled, select, true {Demander des images ou des vidéos supplémentaires auprès du } false {vendeurDemander des images supplémentaires auprès du vendeur}}",
       "id": "pdp.PdpMobilePhotoRequestMoreImages.requestMedia"
     }
   ],
@@ -6183,7 +6183,7 @@
       "id": "PdpRequestAppointmentModal.messageLabel"
     },
     {
-      "defaultMessage": "Ajoutez les détails du projet, demandez à voir des articles supplémentaires ou informez le vendeur des autres articles que vous vous approvisionnez.",
+      "defaultMessage": "Ajoutez des détails sur le projet, demandez à voir des articles supplémentaires, ou informez le vendeur des autres articles que vous vous approvisionnez.",
       "id": "PdpRequestAppointmentModal.messagePlaceholder"
     },
     {
@@ -6339,7 +6339,7 @@
       "id": "PdpRespDealerDetailsFeedback.title"
     },
     {
-      "defaultMessage": "{numberOfReviews, plural, one {{numberOfReviews,number} examens} other {{numberOfReviews,number} révisions}}",
+      "defaultMessage": "{numberOfReviews, plural, one {{numberOfReviews,number} révise} other {{numberOfReviews,number} les révisions}}",
       "id": "PdpRespDealerDetailsFeedback.totalReviews"
     }
   ],
@@ -6481,7 +6481,7 @@
       "id": "TradeOnApprovalCoachmark.close"
     },
     {
-      "defaultMessage": "Vous voulez d’abord essayer l’article ? Cliquez ici pour soumettre une demande à 1stDibs, et nous travaillerons avec le vendeur en votre nom.",
+      "defaultMessage": "Vous voulez d'abord essayer l'article ? Cliquez ici pour soumettre une demande à 1stDibs, et nous travaillerons avec le vendeur en votre nom.",
       "id": "TradeOnApprovalCoachmark.content"
     },
     {
@@ -6641,7 +6641,7 @@
       "id": "PdpSharedBuyerProtectionBox.title"
     },
     {
-      "defaultMessage": "Si votre commande n'arrive pas comme décrit, nous ferons le lien entre vous et le vendeur pour la corriger. En tant que {tier}, vous pouvez {days} signaler tous les problèmes que vous rencontrez avec la commande.",
+      "defaultMessage": "Si votre commande n’arrive pas comme décrit, nous ferons le lien entre vous et le vendeur pour la corriger. En tant que {tier}, vous pouvez signaler tous {days} les problèmes que vous rencontrez avec la commande.",
       "id": "PdpSharedBuyerProtectionBox.tradeRewardsMessage"
     }
   ],
@@ -6771,7 +6771,7 @@
       "id": "PdpSharedDealerInfo.response_time_several_days"
     },
     {
-      "defaultMessage": "{responseTime, plural, =0 {<1 heure} one {{responseTime} heures} other {{responseTime} heures heures}}",
+      "defaultMessage": "{responseTime, plural, =0 {<1 heure} one {{responseTime} heures heures} other {{responseTime} heures}}",
       "id": "PdpSharedDealerInfo.response_time_value"
     },
     {
@@ -6793,7 +6793,7 @@
       "id": "PdpSharedDescriptionAbout.seeDescriptionTextButton"
     },
     {
-      "defaultMessage": "Cette description de l'article a été rédigée à l'origine en anglais.",
+      "defaultMessage": "Cette description de l'article a été écrite à l'origine en anglais.",
       "id": "PdpSharedDescriptionAbout.seeOriginalHeaderText"
     },
     {
@@ -6875,7 +6875,7 @@
       "id": "PdpSharedNewSellerPill.pill_text"
     },
     {
-      "defaultMessage": "J’ai rejoint la société au cours des six derniers mois.",
+      "defaultMessage": "Rejoint au cours des six derniers mois.",
       "id": "PdpSharedNewSellerPill.tooltip"
     }
   ],
@@ -7065,7 +7065,7 @@
       "id": "pdpBlurb.pcsTitleSoldPdp"
     },
     {
-      "defaultMessage": "Voir les détails",
+      "defaultMessage": "Afficher les détails",
       "id": "pdpBlurb.returnsCta"
     },
     {
@@ -7565,7 +7565,7 @@
       "id": "global.questionsSellerIsHereToHelp"
     },
     {
-      "defaultMessage": "Consulté récemment",
+      "defaultMessage": "Récemment consulté",
       "id": "global.recentlyViewed"
     },
     {
@@ -7577,7 +7577,7 @@
       "id": "global.unpurchasableHeader"
     },
     {
-      "defaultMessage": "Voir les détails",
+      "defaultMessage": "Afficher les détails",
       "id": "global.viewDetailsCta"
     },
     {
@@ -7619,7 +7619,7 @@
   ],
   "apps/app-buyer-finding/src/shared/SharedRecentlyViewedItems/SharedRecentlyViewedItems.jsx": [
     {
-      "defaultMessage": "Consulté récemment",
+      "defaultMessage": "Récemment consulté",
       "id": "shared.recentlyViewed"
     },
     {
@@ -7691,7 +7691,7 @@
       "id": "bmc.TradeAdmin.AccessDeniedModal.ctaClose"
     },
     {
-      "defaultMessage": "Vous devez vous faire passer pour l'acheteur pour :",
+      "defaultMessage": "Vous devez vous faire passer pour l’acheteur pour :",
       "id": "bmc.TradeAdmin.AccessDeniedModal.listHeader"
     },
     {
@@ -7701,7 +7701,7 @@
   ],
   "apps/app-buyer-mc/src/components/common/TradeAdmin/JoinConversation.jsx": [
     {
-      "defaultMessage": "Une erreur s'est produite lors de la tentative de participation à cette conversation. Veuillez réessayer plus tard ou contacter quelqu’un de l’équipe produit/ingénierie commerciale.",
+      "defaultMessage": "Une erreur s'est produite lors de la tentative de participation à cette conversation. Veuillez réessayer plus tard ou contacter quelqu’un de l’équipe d’ingénierie/produit commercial.",
       "id": "bmc.JoinConversation.error"
     },
     {
@@ -7719,7 +7719,7 @@
   ],
   "apps/app-buyer-mc/src/components/common/TradeAdmin/NotificationSettings.jsx": [
     {
-      "defaultMessage": "Une erreur s'est produite lors de la tentative de mise à jour des paramètres de notification pour l'acheteur. Veuillez réessayer plus tard ou contacter quelqu’un de l’équipe produit/ingénierie commerciale.",
+      "defaultMessage": "Une erreur s'est produite lors de la tentative de mise à jour des paramètres de notification pour l'acheteur. Veuillez réessayer plus tard ou contacter quelqu’un de l’équipe d’ingénierie/produit commercial.",
       "id": "bmc.NotificationSettings.error"
     },
     {
@@ -7759,7 +7759,7 @@
       "id": "bmc.BuyerCTAs.acceptOfferCta"
     },
     {
-      "defaultMessage": "Offre de comptoir",
+      "defaultMessage": "Offre compteur",
       "id": "bmc.BuyerCTAs.counterOfferCta"
     },
     {
@@ -7843,7 +7843,7 @@
       "id": "bmc.BuyerMessage.actionPrivateOfferHoldSent"
     },
     {
-      "defaultMessage": "Offre et expédition devis reçu",
+      "defaultMessage": "Offre et devis d’expédition reçus",
       "id": "bmc.BuyerMessage.actionPrivateOfferShippingQuoteSent"
     },
     {
@@ -7873,7 +7873,7 @@
       "id": "bmc.BuyerPdpLink.noImageMessageSmall"
     },
     {
-      "defaultMessage": "{price} /élément",
+      "defaultMessage": "{price} / élément",
       "id": "bmc.BuyerPdpLink.perItem"
     },
     {
@@ -8033,7 +8033,7 @@
       "id": "bmc.InvoiceLink.invoiceLink"
     },
     {
-      "defaultMessage": "Reçu",
+      "defaultMessage": "Réception",
       "id": "bmc.InvoiceLink.receiptLink"
     }
   ],
@@ -8445,7 +8445,7 @@
       "id": "bmc.EmailCheckin.designInspiration"
     },
     {
-      "defaultMessage": "Merci. Nous apprécions vos commentaires et nous assurerons le suivi avec une assistance supplémentaire si nécessaire.",
+      "defaultMessage": "Merci. Nous apprécions vos commentaires et nous assurerons un suivi avec une assistance supplémentaire si nécessaire.",
       "id": "bmc.EmailCheckin.feedback"
     },
     {
@@ -8463,7 +8463,7 @@
       "id": "bmc.EmailUnsubscribe.mcLink"
     },
     {
-      "defaultMessage": "Pour continuer à recevoir des notifications par e-mail pour cette conversation, veuillez envoyer une demande à {supportEmail}.",
+      "defaultMessage": "Pour reprendre la réception des notifications par e-mail pour cette conversation, veuillez envoyer une demande à {supportEmail}.",
       "id": "bmc.EmailUnsubscribe.resumeNotifications"
     },
     {
@@ -8531,7 +8531,7 @@
       "id": "bmc.ConversationHistory.contactSellers"
     },
     {
-      "defaultMessage": "Vous n'avez pas de messages ici !",
+      "defaultMessage": "Vous n'avez aucun message ici !",
       "id": "bmc.ConversationHistory.noMessages"
     }
   ],
@@ -8725,7 +8725,7 @@
       "id": "PromiseBenefits.shipping.title"
     },
     {
-      "defaultMessage": "Obtenez des réponses à toutes vos questions en temps opportun auprès de nos spécialistes de l’assistance.",
+      "defaultMessage": "Obtenez des réponses opportunes à toutes vos questions de nos spécialistes de l’assistance.",
       "id": "PromiseBenefits.support.description"
     },
     {
@@ -8755,7 +8755,7 @@
   ],
   "apps/app-buyer-misc/src/about/promise/PromiseHead.jsx": [
     {
-      "defaultMessage": "Nous nous engageons à satisfaire votre satisfaction à chaque achat. Des services leaders du secteur à l’assistance personnalisée, nous nous engageons à vous aider à acheter un design unique avec une tranquillité d’esprit.",
+      "defaultMessage": "Nous nous engageons à satisfaire votre satisfaction à chaque achat. Des services leaders du secteur à l’assistance personnalisée, nous nous engageons à vous aider à acheter un design unique en son genre avec une tranquillité d’esprit.",
       "id": "PromiseHead.description"
     },
     {
@@ -8799,7 +8799,7 @@
       "id": "PromiseProtection.buyerProtection.first"
     },
     {
-      "defaultMessage": "L’article <strong>n’était pas significativement tel que décrit, endommagé en transit ou n’est jamais </strong>arrivé.",
+      "defaultMessage": "L’article <strong>n’était pas significativement tel que décrit, endommagé en transit ou n’est jamais arrivé</strong>",
       "id": "PromiseProtection.buyerProtection.second"
     },
     {
@@ -8807,7 +8807,7 @@
       "id": "PromiseProtection.buyerProtection.third"
     },
     {
-      "defaultMessage": "Dans le cas peu probable où vous recevriez un article qui n’est pas décrit de manière significative ou qui a été endommagé pendant le transport, nous serons heureux de travailler avec vous et le vendeur pour atteindre une résolution optimale.",
+      "defaultMessage": "Dans le cas peu probable où vous recevriez un article qui n’est pas comme décrit de manière significative ou qui a été endommagé pendant le transport, nous serons heureux de travailler avec vous et le vendeur pour parvenir à une résolution optimale.",
       "id": "PromiseProtection.firstParagraph"
     },
     {
@@ -8845,11 +8845,11 @@
   ],
   "apps/app-buyer-misc/src/about/promise/PromiseVettedSeller.jsx": [
     {
-      "defaultMessage": "Notre processus de vérification mené par des experts garantit que seuls les meilleurs professionnels expérimentés vendent sur 1stDibs. Et tant que vous commandez via notre caisse sécurisée, votre expédition sera entièrement assurée et arrivera comme décrit, n’importe où sur la Terre.",
+      "defaultMessage": "Notre processus de vérification mené par des experts garantit que seuls les meilleurs professionnels expérimentés vendent sur 1stDibs. Et tant que vous passez votre commande via notre système de paiement sécurisé, votre expédition sera entièrement assurée et arrivera comme décrit, n’importe où sur Terre.",
       "id": "PromiseVettedSeller.description"
     },
     {
-      "defaultMessage": "Vendeurs voués à l'oubli, livraisons de confiance",
+      "defaultMessage": "Vendeurs voués à l'entretien, livraisons fiables",
       "id": "PromiseVettedSeller.title"
     }
   ],
@@ -8893,17 +8893,17 @@
       "id": "IphoneRespLayout.h1Italic"
     },
     {
-      "defaultMessage": "Limité dans le temps uniquement : Profitez d’une réduction de 150 $ sur votre achat de plus de 500 $ avec Apple Pay, lorsque vous utilisez notre application. Utilisez le code PAYFASTER.",
+      "defaultMessage": "Durée limitée uniquement : Profitez d’une réduction de 150 $ sur votre achat de plus de 500 $ avec Apple Pay, lorsque vous utilisez notre application. Utiliser le code PAYFASTER.",
       "id": "IphoneRespLayout.promotionHeader"
     }
   ],
   "apps/app-buyer-misc/src/apps/iphone/helpers/copy.tsx": [
     {
-      "defaultMessage": "Découvrez des meubles, des bijoux, de la mode et des beaux-arts soigneusement sélectionnés auprès des vendeurs et galeries les plus prestigieux au monde. De plus, enregistrez vos articles préférés, affichez les articles dans une pièce et envoyez des messages aux vendeurs directement depuis votre appareil.",
+      "defaultMessage": "Parcourez les meubles, les bijoux, la mode et les beaux-arts soigneusement sélectionnés par les vendeurs et galeries les plus prestigieux au monde. De plus, enregistrez vos articles préférés, affichez les articles dans une pièce et envoyez des messages aux vendeurs directement depuis votre appareil.",
       "id": "apps.iphone.description"
     },
     {
-      "defaultMessage": "Découvrez un superbe design à emporter",
+      "defaultMessage": "Découvrez notre superbe design lors de vos déplacements",
       "id": "apps.iphone.descriptionHeader"
     },
     {
@@ -8911,7 +8911,7 @@
       "id": "apps.iphone.iPhonesImg"
     },
     {
-      "defaultMessage": "Conditions générales : L’achat (plus de 500) de 1stDibs.com que vous complétez avec Apple Pay comme méthode de paiement pendant la période du 4 au 18 décembre 2019 en utilisant le code PAYFASTER recevra une réduction de 150 $ sur un achat de 500 $ ou plus (avant l’expédition et les taxes). L’offre peut être retirée ou modifiée sans préavis. Ce code et cette remise ne peuvent être utilisés qu’une seule fois par un acheteur, et la remise n’est disponible et valable que du 12/4/19 au 12/18/19.",
+      "defaultMessage": "Conditions générales : L’achat (plus de 500) de 1stDibs.com que vous complétez avec Apple Pay comme méthode de paiement pendant la période du 4 au 18 décembre 2019 en utilisant le code PAYFASTER recevra une réduction de 150 $ sur un achat de 500 $ ou plus (avant l’expédition et les taxes). L’offre peut être retirée ou modifiée sans préavis. Ce code et cette remise ne peuvent être utilisés qu’une seule fois par tout acheteur, et la remise n’est disponible et valable que du 12/4/19 au 12/18/19.",
       "id": "apps.iphone.promotionTerms"
     },
     {
@@ -9057,7 +9057,7 @@
       "id": "DealerApplicationBenefit.benefit5"
     },
     {
-      "defaultMessage": "Votre ressource d’experts fournit un coaching personnalisé pour votre réussite et peut vous aider à résoudre presque tous les défis.",
+      "defaultMessage": "Votre ressource d’expert fournit un coaching personnalisé pour votre réussite et peut vous aider à résoudre presque tous les défis.",
       "id": "DealerApplicationBenefit.benefit6"
     },
     {
@@ -9103,7 +9103,7 @@
       "id": "DealerApplicationByTheNumbers.itemBody1"
     },
     {
-      "defaultMessage": "commandes au cours de l'année passée",
+      "defaultMessage": "commandes au cours de l’année passée",
       "id": "DealerApplicationByTheNumbers.itemBody2"
     },
     {
@@ -9149,7 +9149,7 @@
   ],
   "apps/app-buyer-misc/src/dealerApplication/DealerApplicationConfirmation.jsx": [
     {
-      "defaultMessage": "Nous vous contacterons dans un délai d’une semaine pour vous indiquer les prochaines étapes.",
+      "defaultMessage": "Nous vous contacterons dans une semaine pour vous indiquer les prochaines étapes.",
       "id": "DealerApplicationConfirmation.body"
     },
     {
@@ -9167,7 +9167,7 @@
       "id": "DealerApplicationDescription.text1"
     },
     {
-      "defaultMessage": "En rassemblant plus de 4 500 des meilleures ventes et galeries du monde, provenant de plus de 40 pays spécialisés dans le mobilier, l’art, la bijouterie et les objets de collection, notre plateforme mondiale de commerce électronique offre une collection unique d’inventaires que les acheteurs ne peuvent trouver nulle part ailleurs.",
+      "defaultMessage": "En rassemblant plus de 4 500 des meilleures ventes et galeries du monde, provenant de plus de 40 pays spécialisés dans le mobilier, l’art, la bijouterie et les objets de collection, notre plateforme mondiale de commerce électronique offre une collection unique que les acheteurs ne peuvent trouver nulle part ailleurs.",
       "id": "DealerApplicationDescription.text2"
     },
     {
@@ -9295,7 +9295,7 @@
       "id": "DealerBusinessDescriptionInput.label"
     },
     {
-      "defaultMessage": "Pour nous aider à en savoir plus sur votre entreprise, veuillez nous faire part de vos débuts, de plus de détails sur votre inventaire et de toutes les foires auxquelles vous participez.",
+      "defaultMessage": "Pour nous aider à en savoir plus sur votre entreprise, veuillez partager votre façon de commencer, plus de détails sur votre inventaire, et mentionner les foires auxquelles vous exposez.",
       "id": "DealerBusinessDescriptionInput.placeholder"
     }
   ],
@@ -9451,7 +9451,7 @@
   ],
   "apps/app-buyer-misc/src/dealerApplication/form/inputs/DealerYearsInBusinessInput.jsx": [
     {
-      "defaultMessage": "Années d'activité",
+      "defaultMessage": "Années d’activité",
       "id": "DealerYearsInBusinessInput.label"
     },
     {
@@ -9583,7 +9583,7 @@
   ],
   "apps/app-buyer-misc/src/dealerStorefront/head/StorefrontSocialShare.jsx": [
     {
-      "defaultMessage": "\"Découvrez plus de pièces incroyables de {company} sur 1stDibs. {url}",
+      "defaultMessage": "\"Découvrez plus de pièces incroyables sur {company} 1stDibs. {url}",
       "id": "StorefrontSocialShare.emailBody"
     },
     {
@@ -9623,7 +9623,7 @@
       "id": "StorefrontFeaturedSection.buttonCta"
     },
     {
-      "defaultMessage": "Pièces à la une",
+      "defaultMessage": "Pièces présentées",
       "id": "StorefrontFeaturedSection.header"
     }
   ],
@@ -9671,7 +9671,7 @@
   ],
   "apps/app-buyer-misc/src/favorites/components/DesignServiceBanner/DesignServiceBanner.jsx": [
     {
-      "defaultMessage": "Découvrez notre gamme {directoryLink} de designers d’intérieur.",
+      "defaultMessage": "Découvrez notre collection {directoryLink} de designers d’intérieur.",
       "id": "designServiceBanner.browseDesignersLink"
     },
     {
@@ -9761,7 +9761,7 @@
   ],
   "apps/app-buyer-misc/src/favorites/components/FavoriteFollowing/FavoriteFollowingItems.jsx": [
     {
-      "defaultMessage": "Désolés, les articles ne sont pas disponibles.",
+      "defaultMessage": "Désolé, les articles ne sont pas disponibles.",
       "id": "abm.favorites.itemsNotAvailable"
     }
   ],
@@ -9931,7 +9931,7 @@
       "id": "abm.favorites.filterByProjects"
     },
     {
-      "defaultMessage": "Comment cela fonctionne",
+      "defaultMessage": "Comment ça fonctionne",
       "id": "abm.favorites.howItWorks"
     },
     {
@@ -9947,7 +9947,7 @@
       "id": "abm.favorites.viewAllProjects"
     },
     {
-      "defaultMessage": "Organisez les balises sur cette page et affichez tous vos projets en un coup d'œil.",
+      "defaultMessage": "Organisez les balises sur cette page et affichez tous vos projets en un coup d’œil.",
       "id": "abm.favorites.viewAllProjectsText"
     }
   ],
@@ -9985,7 +9985,7 @@
   ],
   "apps/app-buyer-misc/src/favorites/components/FavoritesBulkActions/FavoritesBulkActionRequestHold.jsx": [
     {
-      "defaultMessage": "Demande de mise en attente",
+      "defaultMessage": "Demander la mise en attente",
       "id": "abm.favorites.requestHold"
     }
   ],
@@ -10205,7 +10205,7 @@
       "id": "shareModal.curatedFolder.csvBulkUploadLink"
     },
     {
-      "defaultMessage": "Partagez avec les utilisateurs en ouvrant {csvBulkUploadLink} l'outil dans l'administrateur interne et en choisissant \"Portfolio Share\".",
+      "defaultMessage": "Partagez avec les utilisateurs en ouvrant {csvBulkUploadLink} l'outil dans l'administrateur interne, et en choisissant \"Portfolio Share\".",
       "id": "shareModal.curatedFolder.footer"
     }
   ],
@@ -10297,7 +10297,7 @@
       "id": "abm.favorites.modals.noteSuccessTitle"
     },
     {
-      "defaultMessage": "Désolé, une erreur s'est produite lors de la suppression de vos articles, veuillez réessayer.",
+      "defaultMessage": "Désolé, une erreur s'est produite lors de la suppression de vos éléments, veuillez réessayer.",
       "id": "abm.favorites.modals.removeItemsErrorDescription"
     },
     {
@@ -10551,7 +10551,7 @@
   ],
   "apps/app-buyer-misc/src/homepage/HpRespAboutModule/HpRespAboutModuleIcons.jsx": [
     {
-      "defaultMessage": "Si vous n’êtes pas satisfait de la façon dont un article est arrivé, nous travaillerons avec vous et le vendeur pour atteindre une résolution optimale.",
+      "defaultMessage": "Si vous n’êtes pas satisfait de la façon dont un article est arrivé, nous travaillerons avec vous et le vendeur pour obtenir une résolution optimale.",
       "id": "homepage.modules.HpRespAboutModuleIcons.buyerProtectionDescription"
     },
     {
@@ -10591,7 +10591,7 @@
   ],
   "apps/app-buyer-misc/src/homepage/HpRespCreatorModule/HpRespCreatorModule.jsx": [
     {
-      "defaultMessage": "Coup de projecteur sur le créateur : {creatorName}",
+      "defaultMessage": "Créateur Coup de projecteur : {creatorName}",
       "id": "homepage.modules.HpRespCreatorModule.title"
     }
   ],
@@ -10633,7 +10633,7 @@
   ],
   "apps/app-buyer-misc/src/homepage/HpRespJumpBackInModule/HpRespJumpBackInModule.jsx": [
     {
-      "defaultMessage": "Aller retour à l'intérieur",
+      "defaultMessage": "Saut de retour",
       "id": "homepage.modules.jumpBackIn.title"
     }
   ],
@@ -10697,7 +10697,7 @@
   ],
   "apps/app-buyer-misc/src/homepage/HpRespRecentlyViewedItems/HpRespRecentlyViewedItems.jsx": [
     {
-      "defaultMessage": "Consulté récemment",
+      "defaultMessage": "Récemment consulté",
       "id": "homepage.modules.recentlyViewed.title"
     },
     {
@@ -10975,7 +10975,7 @@
   ],
   "apps/app-buyer-trade/src/application/serverMessages.js": [
     {
-      "defaultMessage": "Voir les détails du programme",
+      "defaultMessage": "Afficher les détails du programme",
       "id": "abt.application.detailsLinkText"
     },
     {
@@ -10987,7 +10987,7 @@
       "id": "abt.application.firm_info_header"
     },
     {
-      "defaultMessage": "Nous utilisons ces informations pour connecter votre entreprise à des services et avantages pertinents.",
+      "defaultMessage": "Nous utilisons ces informations pour connecter votre entreprise aux services et avantages pertinents.",
       "id": "abt.application.firm_info_subheader"
     },
     {
@@ -10999,7 +10999,7 @@
       "id": "abt.application.header"
     },
     {
-      "defaultMessage": "Vous voulez devenir membre commercial sur 1stDibs ? Inscrivez-vous ici et commencez le processus de rejoindre notre famille exclusive de membres commerciaux.",
+      "defaultMessage": "Vous voulez devenir membre commercial sur 1stDibs ? Postulez ici et commencez le processus de rejoindre notre famille exclusive de membres commerciaux.",
       "id": "abt.application.meta_description"
     },
     {
@@ -11007,7 +11007,7 @@
       "id": "abt.application.meta_title"
     },
     {
-      "defaultMessage": "Une suite gratuite d’avantages pour les architectes et designers d’intérieur professionnels vérifiés.",
+      "defaultMessage": "Une suite gratuite d’avantages pour les architectes et les designers d’intérieur professionnels vérifiés.",
       "id": "abt.application.subheader"
     }
   ],
@@ -11459,7 +11459,7 @@
   ],
   "apps/app-buyer-trade/src/designProfile/components/DesignProjectTile/EditDesignProjectTile.jsx": [
     {
-      "defaultMessage": "projet",
+      "defaultMessage": "brouillon",
       "id": "abt.designProfile.DesignProjectTile.draftLabel"
     },
     {
@@ -11523,7 +11523,7 @@
       "id": "abt.designProfile.header.contact.pinterestLabel"
     },
     {
-      "defaultMessage": "Apprenez à connaître le beau travail de {firmName} sur les 1stDibs.",
+      "defaultMessage": "Découvrez le beau travail de {firmName} sur les 1stDibs.",
       "id": "abt.designProfile.header.contact.twitterText"
     }
   ],
@@ -11615,7 +11615,7 @@
   ],
   "apps/app-buyer-trade/src/designerDirectory/components/DesignerDirectoryHeader.jsx": [
     {
-      "defaultMessage": "Répertoire du cabinet de conception",
+      "defaultMessage": "Répertoire de la société de conception",
       "id": "abt.DesignerDirectory.header"
     },
     {
@@ -11639,7 +11639,7 @@
   ],
   "apps/app-buyer-trade/src/designerDirectory/components/DesignerDirectoryMatchmakerTile.jsx": [
     {
-      "defaultMessage": "Grâce à notre service gratuit, nous vous recommanderons les meilleurs designers en fonction de votre style et de vos besoins.",
+      "defaultMessage": "Nous vous recommanderons les meilleurs designers en fonction de votre style et de vos besoins grâce à notre service gratuit.",
       "id": "abt.DesignerDirectoryMatchmakerTile.description"
     },
     {
@@ -11677,7 +11677,7 @@
   ],
   "apps/app-buyer-trade/src/helpers.js": [
     {
-      "defaultMessage": "Découvrez le projet {firmName}\"'s \" {projectName}sur 1stDibs. {projectUrl}",
+      "defaultMessage": "Découvrez {firmName}le projet \"{projectName}\" de sur 1stDibs. {projectUrl}",
       "id": "abt.interiorsProfile.photo.share.email.body"
     },
     {
@@ -11775,7 +11775,7 @@
       "id": "abt.homepageTrade.archiveConvesationOption2"
     },
     {
-      "defaultMessage": "J'ai déjà obtenu cet élément",
+      "defaultMessage": "J'ai déjà obtenu cet article",
       "id": "abt.homepageTrade.archiveConvesationOption3"
     },
     {
@@ -11799,7 +11799,7 @@
   ],
   "apps/app-buyer-trade/src/homepageTrade/HpTradeRespLapsedConversationsModule/HpTradeRespLapsedConversationDate.jsx": [
     {
-      "defaultMessage": "Vous avez parlé de cet élément au {lastActivity}vendeur.",
+      "defaultMessage": "Vous avez parlé au vendeur de cet {lastActivity}article.",
       "id": "abt.homepageTrade.lapsedConversations.lastMessageRelative"
     },
     {
@@ -11899,7 +11899,7 @@
   ],
   "apps/app-buyer-trade/src/homepageTrade/HpTradeRespStaticValuePropModules/HpTradeRespTopValuePropModule.jsx": [
     {
-      "defaultMessage": "Accédez à Mon espace de travail, un outil gratuit qui prend en charge l’organisation, le suivi des projets des clients et la collaboration avec les membres de l’équipe.",
+      "defaultMessage": "Accédez à Mon espace de travail, un outil gratuit qui prend en charge l'organisation, le suivi des projets des clients et la collaboration avec les membres de l'équipe.",
       "id": "homepageTrade.HpTradeRespTopValuePropModule.projectManagementContent"
     },
     {
@@ -11933,7 +11933,7 @@
       "id": "homepageTrade.HpTradeRespRewardsEndOfYearMessaging.learnMoreLink"
     },
     {
-      "defaultMessage": "Statut prévu pour 2020 : {status}.",
+      "defaultMessage": "Statut projeté 2020 : {status}.",
       "id": "homepageTrade.HpTradeRespRewardsEndOfYearMessaging.levelUpHeader"
     },
     {
@@ -12397,7 +12397,7 @@
   ],
   "apps/app-buyer-trade/src/loyaltyModules/EnrollCta.jsx": [
     {
-      "defaultMessage": "Commencer à gagner de l’argent de retour",
+      "defaultMessage": "Commencer à gagner de l'argent de retour",
       "id": "loyalty.EnrollCta.header"
     },
     {
@@ -12445,7 +12445,7 @@
       "id": "rewards.RewardsWrapper.faqHeader"
     },
     {
-      "defaultMessage": "Une fois que vous commencez à gagner des récompenses de remboursement en espèces, le montant le plus élevé sera immédiatement effectif. En tant que récompense supplémentaire, vous recevrez votre nouveau taux de remboursement accru sur toutes les dépenses précédentes de l’année civile en cours.",
+      "defaultMessage": "Une fois que vous commencez à gagner des récompenses de remboursement supplémentaires, le montant le plus élevé sera immédiatement effectif. En tant que récompense supplémentaire, vous recevrez votre nouveau taux de remboursement accru sur toutes les dépenses précédentes de l’année civile en cours.",
       "id": "rewards.RewardsWrapper.higherAmountAnswer"
     },
     {
@@ -12481,7 +12481,7 @@
       "id": "rewards.RewardsWrapper.moreQuestionsAnswer[1]"
     },
     {
-      "defaultMessage": "1stDibs affiche fièrement sur notre site les portefeuilles d'entreprises qui atteignent les niveaux Partenaire de confiance Silver, Gold et Platinum. Pour créer le portefeuille de votre entreprise, veuillez contacter {emailLink}.",
+      "defaultMessage": "1stDibs affiche fièrement les portefeuilles d'entreprises qui atteignent les niveaux de partenariat de confiance Silver, Gold et Platinum sur notre site. Pour créer le portefeuille de votre entreprise, veuillez contacter {emailLink}.",
       "id": "rewards.RewardsWrapper.portfolioAnswer"
     },
     {
@@ -12489,7 +12489,7 @@
       "id": "rewards.RewardsWrapper.portfolioQuesion"
     },
     {
-      "defaultMessage": "Votre entreprise recevra automatiquement un remboursement en espèces chaque fois qu’elle gagnera 5 000 points sur 1stDibs.com. Les entreprises américaines recevront une carte-cadeau American Express à l’adresse indiquée lors de l’inscription. Les entreprises internationales recevront une carte-cadeau Visa.",
+      "defaultMessage": "Votre entreprise recevra automatiquement une remise en espèces chaque fois qu’elle gagnera 5 000 points sur 1stDibs.com. Les entreprises américaines recevront une carte-cadeau American Express à l’adresse indiquée lors de l’inscription. Les entreprises internationales recevront une carte-cadeau Visa.",
       "id": "rewards.RewardsWrapper.receiveAnswer"
     },
     {
@@ -12543,7 +12543,7 @@
       "id": "abt.loyaltyModules.childPrograms.childProgramConfig.additionalSellerInfo"
     },
     {
-      "defaultMessage": "Remboursez-vous pour chaque {points} point",
+      "defaultMessage": "Remboursement pour chaque {points} point",
       "id": "abt.loyaltyModules.childPrograms.childProgramConfig.cashBackForPoints"
     },
     {
@@ -12611,7 +12611,7 @@
       "id": "abt.loyaltyModules.childPrograms.childPrograms.dayDuration"
     },
     {
-      "defaultMessage": "Vous disposez de {daysCount} jours supplémentaires pour résoudre les problèmes que vous pourriez rencontrer avec une commande.",
+      "defaultMessage": "Vous disposez de {daysCount} jours supplémentaires pour résoudre les problèmes que vous pourriez avoir avec une commande.",
       "id": "abt.loyaltyModules.childPrograms.dayDurationInfo"
     }
   ],
@@ -12641,7 +12641,7 @@
   ],
   "apps/app-buyer-trade/src/loyaltyModules/components/BenefitsChartMobile/getBenefits.jsx": [
     {
-      "defaultMessage": "{days} Protection de l'acheteur Jours Enahnced",
+      "defaultMessage": "{days} Protection de l'acheteur jours après la date",
       "id": "abt.loyaltyModules.getMobileChartBenefits.buyerProtection"
     },
     {
@@ -12703,7 +12703,7 @@
       "id": "abt.loyaltyModules.DetailedBenefits.360FirmFeature"
     },
     {
-      "defaultMessage": "Faites figurer votre travail dans nos e-mails, Instagram et sur 1stDibs.com, ce qui renforce votre exposition aux clients potentiels.",
+      "defaultMessage": "Faites figurer votre travail dans nos e-mails, Instagram et sur 1stDibs.com, ce qui renforce votre exposition à des clients potentiels.",
       "id": "abt.loyaltyModules.DetailedBenefits.360FirmFeatureDescription"
     },
     {
@@ -12723,7 +12723,7 @@
       "id": "abt.loyaltyModules.DetailedBenefits.cashRewardsDescription"
     },
     {
-      "defaultMessage": "catalogue",
+      "defaultMessage": "Catalogue",
       "id": "abt.loyaltyModules.DetailedBenefits.catalogLink"
     },
     {
@@ -12731,7 +12731,7 @@
       "id": "abt.loyaltyModules.DetailedBenefits.designerConnection"
     },
     {
-      "defaultMessage": "{getRecommendedLink} aux nouveaux clients potentiels en fonction de leur style, de leur budget et de leurs besoins de conception.",
+      "defaultMessage": "{getRecommendedLink} à de nouveaux clients potentiels en fonction de leur style, de leur budget et de leurs besoins en matière de conception.",
       "id": "abt.loyaltyModules.DetailedBenefits.designerConnectionDescription"
     },
     {
@@ -12807,7 +12807,7 @@
       "id": "abt.loyaltyModules.DetailedBenefits.printFeature"
     },
     {
-      "defaultMessage": "Qualifiez-vous pour des placements dans des chambres de distinction comme l’une de nos {roomsOfDistinctionLink}, {introspectiveLink}ou nos , {catalogLink}chacune étant distribuée à des personnes de valeur et à des détaillants haut de gamme et lors d’événements exclusifs.",
+      "defaultMessage": "Qualifiez-vous pour des placements dans des chambres de distinction comme l’une de nos {roomsOfDistinctionLink}, ou nos {introspectiveLink}, {catalogLink}chacune étant distribuée à des personnes de valeur et à des détaillants haut de gamme et lors d’événements exclusifs.",
       "id": "abt.loyaltyModules.DetailedBenefits.printFeatureDescription"
     },
     {
@@ -12815,7 +12815,7 @@
       "id": "abt.loyaltyModules.DetailedBenefits.publishedProfile"
     },
     {
-      "defaultMessage": "Placez votre entreprise {portfolioLink} devant nos clients à valeur nette élevée.",
+      "defaultMessage": "Placez votre entreprise {portfolioLink} devant nos clients à valeur ajoutée élevée.",
       "id": "abt.loyaltyModules.DetailedBenefits.publishedProfileDescription"
     },
     {
@@ -12867,11 +12867,11 @@
       "id": "abt.LoyaltyTerms.term_01"
     },
     {
-      "defaultMessage": "VEUILLEZ LIRE ATTENTIVEMENT LES PRÉSENTES CONDITIONS D’UTILISATION. EN CLIQUANT SUR \"I AGREE\", RECONNAISSANT VOTRE ACCEPTATION PAR L'INTERMÉDIAIRE D'UN AUTRE MÉCANISME RAISONNABLEMENT ACCEPTABLE POUR 1STDIBS, INC. (E.G., par exemple dans le but de vous conformer), ou par le biais de l'accès ou de la participation dans le 1stDibs projet de réunions de travail, vous êtes susceptible d'être mis en application par leurs plateformes d'utilisation et toutes les plateformes d'utilisation et toutes les plateformes d'utilisation encore identifiées par la réglementation. Si vous n’avez pas accès à leurs ressources d’utilisation, ne les citez pas dans le 1stDibs plan de travail des semences.",
+      "defaultMessage": "VEUILLEZ LIRE ATTENTIVEMENT LES PRÉSENTES CONDITIONS D’UTILISATION. EN CLIQUANT SUR \"I AGREE\", RECONNAISSANT VOTRE ACCEPTATION PAR L'INTERMÉDIAIRE D'UN AUTRE MÉCANISME RAISONNABLEMENT ACCEPTABLE POUR 1STDIBS, INC. (E.G., par exemple dans le but de vous conformer), ou par le biais de l'accès ou de la participation dans le 1stDibs de réunions de travail, vous êtes susceptible d'être mis en application par leurs plateformes d'utilisation et toutes les plateformes d'utilisation et toutes les plateformes d'utilisation encore identifiées par la réglementation. Si vous n’avez pas accès à leurs ressources d’utilisation, ne les citez pas dans le 1stDibs travail des semences.",
       "id": "abt.LoyaltyTerms.term_02"
     },
     {
-      "defaultMessage": "Les Conditions d'utilisation du programme de récompenses commerciales 1stDibs (ces \"Conditions\") décrivent les conditions générales en vertu desquelles 1stdibs.com, Inc. (\"1stDibs\", \"nous\", \"notre(nos)\" ou \"nous\") vous offre le potentiel de gagner des récompenses et des avantages en espèces (les \"Rémunérations commerciales\") en fonction du nombre de points que votre entreprise gagne. Il existe deux types de points que votre entreprise peut gagner dans ce programme : (1) \"Points de statut\" sont des points qui déterminent le niveau d'adhésion auquel votre entreprise appartient ; et (2) \"Points de récompense en espèces\" sont des points qui déterminent le montant des récompenses en espèces que votre entreprise gagne. Vous pouvez gagner des points en achetant des marchandises éligibles avec votre compte 1stDibs (pour vos clients ou vous-même) sur notre site Web (le \"Site\") ou par d'autres actions annoncées par 1stDibs. Le programme décrit dans les présentes Conditions par lequel vous gagnez des Récompenses commerciales est appelé \"Programme de récompense commerciale\". Le point auquel vous avez droit à un avantage distinct dans le cadre du Programme de récompenses commerciales est appelé \"Niveau cible de récompense\".",
+      "defaultMessage": "Les Conditions d'utilisation du programme de récompenses commerciales 1stDibs (ces \"Conditions\") décrivent les conditions générales en vertu desquelles 1stdibs.com, Inc. (\"1stDibs,\", \"nous\", \"notre(nos)\" ou \"nous\") vous offre le potentiel de gagner des récompenses et des avantages en espèces (les \"Rémunérations commerciales\") en fonction du nombre de points que votre entreprise gagne. Il existe deux types de points que votre entreprise peut gagner dans ce programme : (1) \"Points de statut\" sont des points qui déterminent le niveau d'adhésion auquel votre entreprise appartient ; et (2) \"Points de récompense en espèces\" sont des points qui déterminent le montant des récompenses en espèces que votre entreprise gagne. Des points peuvent être gagnés en achetant des marchandises éligibles avec votre compte 1stDibs (pour vos clients ou vous-même) sur notre site Web (le \"Site\") ou par d'autres actions annoncées par 1stDibs. Le programme décrit dans les présentes Conditions par lequel vous gagnez des Récompenses commerciales est appelé \"Programme de récompense commerciale\". Le point auquel vous avez droit à un avantage distinct dans le cadre du Programme de récompenses commerciales est appelé \"Niveau cible de récompense\".",
       "id": "abt.LoyaltyTerms.term_03"
     },
     {
@@ -12879,7 +12879,7 @@
       "id": "abt.LoyaltyTerms.term_04"
     },
     {
-      "defaultMessage": "Les Récompenses commerciales sont uniquement destinées et disponibles pour les décorateurs d’intérieur professionnels et les architectes qui participent au Programme commercial du 1stDibs (\" Concepteurs vérifiés\"), un programme comprenant une suite d’avantages pour les membres vérifiés de la profession. En acceptant les présentes Conditions, vous nous déclarez et garantissez que vous êtes un Concepteur vérifié.",
+      "defaultMessage": "Les Récompenses commerciales sont uniquement destinées et disponibles pour les décorateurs d’intérieur professionnels et les architectes qui participent au Programme commercial du 1stDibs (\"Concepteurs vérifiés\"), un programme comprenant une suite d’avantages pour les membres vérifiés de la profession. En acceptant les présentes Conditions, vous nous déclarez et garantissez que vous êtes un Designer vérifié.",
       "id": "abt.LoyaltyTerms.term_05"
     },
     {
@@ -12887,15 +12887,15 @@
       "id": "abt.LoyaltyTerms.term_06"
     },
     {
-      "defaultMessage": "(A) 1stDibs fournira un calendrier des avantages associés à différents niveaux de points sur son site Web à l’adresse {link}. Les détails concernant la façon dont les Points de statut et les Points de récompense Cash sont gagnés, la manière dont les récompenses sont déterminées et les avantages de chaque niveau d’adhésion sont indiqués sur le Site à l’adresse {link}, qui est incorporée aux présentes Conditions par cette référence.",
+      "defaultMessage": "(A) 1stDibs fournira un calendrier des avantages associés à différents niveaux de points sur son site Web à l’adresse {link}. Les détails concernant la façon dont les Points de statut et les Points de récompense Cash sont gagnés, la manière dont les récompenses sont déterminées et les avantages de chaque niveau d’adhésion sont définis sur le Site à l’adresse {link}, qui est incorporée aux présentes Conditions par cette référence.",
       "id": "abt.LoyaltyTerms.term_07"
     },
     {
-      "defaultMessage": "(B) Pour éviter d'envoyer des espèces par courrier, la récompense commerciale vous sera envoyée sous la forme d'une carte prépayée American Express ou Visa (la carte prépayée Trade Reward Cash Card ou Cash Card, la marque envoyée est à notre discrétion), qui est échangeable contre des marchandises partout où les cartes prépayées Amex ou Visa sont acceptées, sous réserve de toute limitation imposée par Amex/Visa et par les commerçants. La carte-cadeau Trade Reward Cash sera envoyée par courrier ou par un service de livraison reconnu/transporteur de colis à l’attention de la personne de contact désignée dans votre entreprise, qui est la personne qui vous inscrit au programme (sauf si une personne de contact différente est indiquée sur le formulaire d’inscription). Toutefois, si la personne à contacter désignée quitte votre société, vous devez nous en informer et nommer une nouvelle personne à contacter. Les points et les Récompenses commerciales sont destinés à vous (l’entité) et ne sont pas destinés à être personnels à la personne qui a exécuté ces conditions/ont été désignés comme personne à contacter.",
+      "defaultMessage": "(B) Pour éviter d'envoyer de l'argent par courrier, la récompense commerciale vous sera envoyée sous la forme d'une carte prépayée American Express ou Visa (la carte prépayée \"Trade Reward Cash Card\" ou \"Cash Card\", la marque envoyée est à notre discrétion), qui est échangeable contre des marchandises partout où les cartes prépayées Amex ou Visa sont acceptées, sous réserve de toute limitation imposée par Amex/Visa et par les commerçants. La carte Trade Reward Cash sera envoyée par courrier ou par un service de livraison/transporteur de colis reconnu à l’attention de la personne de contact désignée dans votre entreprise, qui est la personne qui vous inscrit au programme (sauf si une personne de contact différente est indiquée sur le formulaire d’inscription). Toutefois, si la personne à contacter désignée quitte votre société, vous devez nous en informer et nommer une nouvelle personne à contacter. Les points et les Récompenses commerciales sont destinés à vous (l’entité) et ne sont pas destinés à être personnels à la personne qui a exécuté ces conditions/ont été désignés comme personne à contacter.",
       "id": "abt.LoyaltyTerms.term_08"
     },
     {
-      "defaultMessage": "(C) Nous ne sommes pas responsables de la perte ou du vol de votre récompense Cash Card Trade Reward. Nous ne sommes pas responsables de l’utilisation de la Carte de paiement après qu’elle a été envoyée (y compris l’utilisation abusive par vos employés/personnes à contacter actuels ou anciens), et nous ne sommes pas responsables de tout ce que vous achetez avec elle (ni de tout ce qui a trait à votre achat ou aux résultats de votre achat), ou de tout problème que vous pourriez rencontrer lors de l’utilisation de la Carte de paiement. Vous devez résoudre ces problèmes avec les commerçants ou la banque émettrice de la carte de paiement (le cas échéant). {strongCopy}",
+      "defaultMessage": "(C) Nous ne sommes pas responsables de la perte ou du vol de votre récompense de la carte Cash Card Trade Reward. Nous ne sommes pas responsables de l’utilisation de la Carte de paiement après qu’elle a été envoyée (y compris l’utilisation abusive par vos employés/personnes à contacter actuels ou anciens), et nous ne sommes pas responsables de tout ce que vous achetez avec elle (ni de tout ce qui a trait à votre achat ou aux résultats de votre achat), ou de tout problème que vous pourriez rencontrer lors de l’utilisation de la Carte de paiement. Vous devez aborder ces problèmes avec les commerçants ou la banque émettrice de la carte de paiement (le cas échéant). {strongCopy}",
       "id": "abt.LoyaltyTerms.term_09"
     },
     {
@@ -12911,7 +12911,7 @@
       "id": "abt.LoyaltyTerms.term_12"
     },
     {
-      "defaultMessage": "(A) Niveau d’inscription : L'inscription aux niveaux Silver, Gold et Platinum des récompenses commerciales est basée sur les points de statut gagnés au cours de l'année civile précédente (si vous étiez membre de notre programme Trade Rewards au cours de cette année) ou les points de statut gagnés au cours de l'année civile en cours (quel que soit le calcul qui vous placerait dans le niveau supérieur !). Votre statut augmente au moment où vous atteignez un niveau supérieur, à l’avenir : par exemple, supposez hypothétiquement que vous avez dépensé suffisamment avec nous à compter du 23 juillet 2018 pour atteindre le niveau Gold (à partir de Silver) ; dans ce cas, vous recevrez un crédit pour le moment où vous avez été Silver calculé au niveau Silver, et à partir du 24 juillet 2018, vous recevrez un crédit calculé au niveau Gold. Ensuite, pour l’année suivante, vous resterez au moins au niveau Gold, en fonction de la façon dont les niveaux sont calculés.",
+      "defaultMessage": "(A) Niveau d’inscription : L'inscription aux niveaux Silver, Gold et Platinum des récompenses commerciales est basée sur les points de statut gagnés au cours de l'année civile précédente (si vous étiez membre de notre programme Trade Rewards au cours de cette année) ou les points de statut gagnés au cours de l'année civile en cours (quel que soit le calcul qui vous placerait dans le niveau supérieur !). Votre statut augmente au moment où vous atteignez un niveau supérieur, à l'avenir : par exemple, supposez hypothétiquement que vous avez dépensé suffisamment avec nous à compter du 23 juillet 2018 pour atteindre le niveau Gold (à partir de Silver) ; dans ce cas, vous recevrez un crédit pour la période où vous avez été Silver calculé au niveau Silver, et à partir du 24 juillet 2018, vous recevrez un crédit calculé au niveau Gold. Ensuite, pour l’année suivante, vous resterez au moins au niveau Gold, en fonction de la façon dont les niveaux sont calculés.",
       "id": "abt.LoyaltyTerms.term_13"
     },
     {
@@ -12931,11 +12931,11 @@
       "id": "abt.LoyaltyTerms.term_17"
     },
     {
-      "defaultMessage": "(A) Vous respecterez toutes nos directives en matière de contenu, qui comprennent, sans limitation, que votre Contenu est approprié pour un site Web de première classe, ne viole pas les droits de tiers, et ne contient pas de langage ou de contenu inapproprié. Nous avons le droit de supprimer tout contenu qui ne répond pas à nos normes. Tout le contenu que vous fournissez (texte, photos, etc.) est défini pour le présent Accord comme étant votre \"Contenu\".",
+      "defaultMessage": "(A) Vous respecterez toutes nos directives en matière de contenu, qui comprennent, sans limitation, que votre Contenu est approprié pour un site Web de première classe, ne viole pas les droits de tiers, et ne contient pas de langage ou de contenu inapproprié. Nous avons le droit de supprimer tout contenu qui ne répond pas à nos normes. Tout le contenu que vous fournissez (texte, photos, etc.) est défini pour le présent Contrat comme étant votre \"Contenu\".",
       "id": "abt.LoyaltyTerms.term_18"
     },
     {
-      "defaultMessage": "(B) Droits non exclusifs de 1stDibs sur le Contenu. Vous reconnaissez et acceptez qu'en soumettant du Contenu à 1stDibs, vous accordez à 1stDibs une licence non exclusive, perpétuelle et irrévocable sur ce Contenu, et vous garantissez que vous disposez de tous les droits légaux de le faire sans enfreindre les droits d'un tiers. Vous pouvez toujours faire ce que vous voulez avec votre Contenu (tant qu'il est légal), mais vous accordez par la présente à 1stDibs le droit de l'utiliser également. Par les présentes, vous accordez à 1stDibs et à ses successeurs, ayants droit et/ou personnes désignées autorisées un droit non exclusif, libre de redevances, perpétuel, irrévocable et pleinement susceptible d'octroi de sous-licences d'utiliser, de reproduire, de modifier, d'adapter, de publier, de traduire, de créer des œuvres dérivées à partir de, de distribuer et d'afficher le Contenu dans le monde entier sur tout support. Sans limiter la généralité de ce qui précède, Vous reconnaissez et acceptez que 1stDibs peut transférer, concéder sous licence (par le biais de plusieurs niveaux), sous-licencier, distribuer, copier, afficher, altérer, transformer, manipuler, modifier et autrement utiliser et reproduire tout le Contenu de quelque manière que ce soit et sur tout support, maintenant ou ultérieurement, existant, connu ou créé ultérieurement, et sans Vous fournir de nom, dans tout le monde entier, le monde entier, pour lequel vous faites votre 1stDibs promotion. {strongCopy}",
+      "defaultMessage": "(B) Droits non exclusifs de 1stDibs sur le Contenu. Vous reconnaissez et acceptez qu'en soumettant du Contenu à 1stDibs, vous accordez à 1stDibs une licence non exclusive, perpétuelle et irrévocable sur ce Contenu, et vous garantissez que vous disposez de tous les droits légaux de le faire sans enfreindre les droits d'un tiers. Vous pouvez toujours faire ce que vous voulez avec votre Contenu (tant qu'il est légal), mais vous accordez par la présente à 1stDibs le droit de l'utiliser également. Par les présentes, vous accordez à 1stDibs et à ses successeurs, ayants droit et/ou personnes désignées autorisées un droit non exclusif, libre de redevances, perpétuel, irrévocable et pleinement susceptible d'octroi de sous-licences d'utiliser, de reproduire, de modifier, d'adapter, de publier, de traduire, de créer des œuvres dérivées à partir de, de distribuer et d'afficher le Contenu dans le monde entier sur tout support. Sans limiter la généralité de ce qui précède, Vous reconnaissez et acceptez que 1stDibs peut transférer, concéder sous licence (par le biais de plusieurs niveaux), sous-licencier, distribuer, copier, afficher, altérer, transformer, manipuler, modifier et autrement utiliser et reproduire tout le Contenu de quelque manière que ce soit et sur tout support, maintenant ou ultérieurement 1stDibs, existant, connu ou créé ultérieurement, et sans Vous fournir de nom, dans tout le monde entier, le monde entier, pour lequel vous faites votre promotion. {strongCopy}",
       "id": "abt.LoyaltyTerms.term_19"
     },
     {
@@ -12951,7 +12951,7 @@
       "id": "abt.LoyaltyTerms.term_22"
     },
     {
-      "defaultMessage": "8. Limite de responsabilité. EN AUCUN CAS 1STDIBS. COM, INC., SES SOCIÉTÉS AFFILIÉES OU L’UN DE LEURS ADMINISTRATEURS RESPECTIFS, AGENTS DE POLICE, EMPLOYÉS, AGENTS, PARTENAIRES, FILIALES, DIVISIONS, SUCCESSEURS, FOURNISSEURS, DISTRIBUTEURS, FOURNISSEURS, ENTREPRENEURS, OU DES REPRÉSENTANTS (COLLECTIVEMENT, LES \"PARTIES LIBÉRÉES\") SONT RESPONSABLES DE TOUTE RESPONSABILITÉ INDIRECTE, SPÉCIAL, ACCESSOIRE, ACCESSOIRE, CONSÉCUTIF, DES DOMMAGES EXEMPLAIRES OU PUNITIFS DÉCOULANT DE, OU DIRECTEMENT OU INDIRECTEMENT LIÉS AU PRÉSENT ACCORD OU AU PROGRAMME DE RÉCOMPENSES COMMERCIALES, Y COMPRIS, SANS LIMITATION, PERTE DE REVENUS, OU LES BÉNÉFICES ANTICIPÉS, OU D’ACTIVITÉ PERDUE, DONNÉES OU VENTES, OU COÛT DES SERVICES DE SUBSTITUTION, MÊME SI 1STDIBS OU SON REPRÉSENTANT OU UNE TELLE PERSONNE A ÉTÉ INFORMÉ DE LA POSSIBILITÉ DE TELS DOMMAGES. SAUF DANS LA MESURE INTERDITE PAR LA LOI APPLICABLE : EN AUCUN CAS LA RESPONSABILITÉ TOTALE DES PARTIES LIBÉRÉES ENVERS VOUS POUR TOUS LES DOMMAGES, PERTES ET CAUSES D’ACTION (QUE CE SOIT EN MATIÈRE CONTRACTUELLE OU DÉLICTUELLE, Y COMPRIS, MAIS SANS S’Y LIMITER, LA NÉGLIGENCE OU AUTRE) DÉCOULANT D’UNE VIOLATION DES PRÉSENTES CONDITIONS NE DÉPASSERA, AU TOTAL, CENT DOLLARS (100,00 USD).",
+      "defaultMessage": "8. Limite de responsabilité. EN AUCUN CAS 1STDIBS. COM, INC., SES SOCIÉTÉS AFFILIÉES OU L’UN DE LEURS ADMINISTRATEURS RESPECTIFS, AGENTS DE POLICE, EMPLOYÉS, AGENTS, PARTENAIRES, FILIALES, DIVISIONS, SUCCESSEURS, FOURNISSEURS, DISTRIBUTEURS, FOURNISSEURS, ENTREPRENEURS, OU DES REPRÉSENTANTS (COLLECTIVEMENT, LES \"PARTIES LIBÉRÉES\") SONT RESPONSABLES DE TOUTE RESPONSABILITÉ INDIRECTE, SPÉCIAL, ACCESSOIRE, ACCESSOIRE, CONSÉCUTIF, DES DOMMAGES EXEMPLAIRES OU PUNITIFS DÉCOULANT DU PRÉSENT ACCORD OU DU PROGRAMME DE RÉCOMPENSES COMMERCIALES, OU DIRECTEMENT OU INDIRECTEMENT LIÉS À CELUI-CI, Y COMPRIS, SANS LIMITATION, PERTE DE REVENUS, OU LES BÉNÉFICES ANTICIPÉS, OU DES AFFAIRES PERDUES, DONNÉES OU VENTES, OU COÛT DES SERVICES DE SUBSTITUTION, MÊME SI 1STDIBS OU SON REPRÉSENTANT OU UNE TELLE PERSONNE A ÉTÉ INFORMÉ DE LA POSSIBILITÉ DE TELS DOMMAGES. SAUF DANS LA MESURE INTERDITE PAR LA LOI APPLICABLE : EN AUCUN CAS LA RESPONSABILITÉ TOTALE DES PARTIES LIBÉRÉES À VOTRE ÉGARD POUR TOUS LES DOMMAGES, PERTES ET CAUSES D’ACTION (QU’IL S’AGISSE D’UN CONTRAT OU D’UN DÉLIT, Y COMPRIS, MAIS SANS S’Y LIMITER, LA NÉGLIGENCE OU AUTRE) DÉCOULANT D’UNE VIOLATION DES PRÉSENTES CONDITIONS NE DÉPASSERA, AU TOTAL, CENT DOLLARS (100,00 USD).",
       "id": "abt.LoyaltyTerms.term_23"
     },
     {
@@ -12959,11 +12959,11 @@
       "id": "abt.LoyaltyTerms.term_24"
     },
     {
-      "defaultMessage": "10. Arbitrage ; Renonciation au procès devant jury et recours collectif. Tout litige, controverse ou réclamation découlant des présentes Conditions ou s’y rapportant, ou toute violation de celles-ci ou toute transaction y afférente, qui ne peut être résolue par négociation entre les parties dans un délai de trente (30) jours, sera soumis à l’American Arbitration Association (AAA) pour un arbitrage obligatoire contraignant devant un arbitre unique choisi conformément aux Règles de l’AAA. L’arbitre n’accordera aucune réparation non monétaire ou équitable de quelque sorte que ce soit, ni n’accordera de dommages et intérêts incompatibles avec les présentes Conditions. Tous les aspects de l'arbitrage seront traités comme confidentiels. Ni les parties ni l’arbitre ne peuvent divulguer l’existence, le contenu ou les résultats de l’arbitrage, sauf si cela est nécessaire pour faire appliquer les résultats de l’arbitrage ou pour se conformer aux exigences légales ou réglementaires. L’arbitre rendra sa sentence par écrit et inclura les conclusions de fait et la conclusion de la loi sur laquelle se fonde la sentence. Le résultat de l’arbitrage liera les parties et le jugement sur la sentence arbitrale pourra être rendu dans tout tribunal compétent. En plus de toute autre mesure de redressement à laquelle une partie peut avoir droit, l’arbitre accordera des honoraires et frais d’avocat raisonnables, y compris des honoraires et frais raisonnables de témoin expert, à la partie gagnante (en cas d’arbitrage). {strongCopy} Lorsque cela est exécutoire, vous n’avez pas besoin d’être admis à collaborer ou à CONSOLIDER des CLAIMS PAR OU AGATER D’autres personnes ou personnes démontrant qu’elles sont impliquées, ou qu’elles ont abîmé un droit d’auteur en tant que référents, responsables ou sous un précurseur. Si une disposition de la présente convention d'arbitrage est jugée inapplicable, la disposition inapplicable sera supprimée, et les conditions d'arbitrage restantes seront appliquées (mais en aucun cas il n'y aura d'arbitrage collectif). Nonobstant ce qui précède, rien dans les présentes Conditions n’interdit à l’une ou l’autre des parties de demander et d’obtenir d’un tribunal compétent (sans nécessité d’enregistrer une caution) une mesure injonctive afin de préserver le statu quo et/ou d’éviter un préjudice irréparable pour lequel un dommage monétaire serait insuffisant.",
+      "defaultMessage": "10. Arbitrage ; Renonciation au procès devant jury et recours collectif. Tout litige, controverse ou réclamation découlant des présentes Conditions ou s’y rapportant, ou toute violation de celles-ci ou de toute transaction y afférente, qui ne peut être résolue par négociation entre les parties dans un délai de trente (30) jours, sera soumis à l’Association américaine d’arbitrage (American Arbitration Association, AAA) pour un arbitrage obligatoire contraignant devant un arbitre unique choisi conformément aux Règles de l’AAA. L’arbitre n’accordera aucune réparation non monétaire ou équitable de quelque sorte que ce soit, ni n’accordera de dommages-intérêts incompatibles avec les présentes Conditions. Tous les aspects de l'arbitrage seront traités comme confidentiels. Ni les parties ni l’arbitre ne peuvent divulguer l’existence, le contenu ou les résultats de l’arbitrage, sauf si cela est nécessaire pour faire appliquer les résultats de l’arbitrage ou pour se conformer aux exigences légales ou réglementaires. L’arbitre rendra sa sentence par écrit et inclura les conclusions de fait et la conclusion de la loi sur laquelle se fonde la sentence. Le résultat de l’arbitrage liera les parties et le jugement sur la sentence arbitrale pourra être rendu dans tout tribunal compétent. En plus de toute autre mesure de redressement à laquelle une partie peut avoir droit, l’arbitre accordera des honoraires et frais d’avocat raisonnables, y compris des honoraires et frais raisonnables de témoin expert, à la partie gagnante (en cas d’arbitrage). {strongCopy} Lorsque cela est exécutoire, vous n’avez pas besoin d’être admis à collaborer ou à CONSOLIDER des CLAIMS PAR OU AGATER D’autres personnes ou personnes démontrant qu’elles sont impliquées, ou qu’elles ont abîmé un droit d’accès comme un responsable juridique, un responsable juridique ou un responsable juridique. Si une disposition de la présente convention d'arbitrage est jugée inapplicable, la disposition inapplicable sera supprimée, et les conditions d'arbitrage restantes seront appliquées (mais en aucun cas il n'y aura d'arbitrage collectif). Nonobstant ce qui précède, rien dans les présentes Conditions n’interdit à l’une ou l’autre des parties de demander et d’obtenir d’un tribunal compétent (sans nécessité de déposer une caution) une mesure d’injonction afin de préserver le statu quo et/ou d’éviter un préjudice irréparable pour lequel un dommage monétaire serait insuffisant.",
       "id": "abt.LoyaltyTerms.term_25"
     },
     {
-      "defaultMessage": "11. Général. Les présentes Conditions, et toutes les réclamations relatives à ou découlant des présentes Conditions ou du Programme de récompenses commerciales, ou de la violation de celles-ci, qu’elles soient contractuelles, délictuelles ou autres, seront régies à tous égards par les lois de l’État de New York, États-Unis, à l’exclusion des principes de choix de loi de cet État. Vous acceptez de soumettre tout litige découlant des présentes Conditions à un arbitrage contraignant. Nous ne garantissons pas un accès continu, ininterrompu ou sécurisé à nos services, et le fonctionnement du Site peut être perturbé par de nombreux facteurs indépendants de notre volonté. Si l’une quelconque des dispositions des présentes Conditions est jugée invalide ou inapplicable, ladite disposition sera annulée et les dispositions restantes seront appliquées. Vous acceptez que les présentes Conditions et tous les accords incorporés puissent être cédés et/ou transférés par 1stDibs, à sa seule discrétion. Les intitulés sont fournis à titre de référence uniquement et ne définissent, ne limitent, n’interprètent ou ne décrivent en aucune façon la portée ou l’étendue d’une telle section. Notre manquement à agir à l’égard d’une violation par vous ou d’autres ne renonce pas à notre droit d’agir à l’égard de violations ultérieures ou similaires. Les présentes Conditions énoncent l’intégralité de l’entente et de l’accord entre nous et vous concernant l’objet des présentes. Aucun frais d'adhésion n'est associé aux récompenses commerciales. Les points de statut et les points Cash Rewards accumulés dans le cadre du programme sont promotionnels et n'ont aucune valeur monétaire. Vos Récompenses commerciales et votre compte dans le cadre de ce Programme de récompenses commerciales sont personnels à l’entité pour le compte de laquelle vous avez conclu les présentes Conditions, et ne peuvent être vendues, transférées ou attribuées à, ou partagées avec toute autre entité quelle qu’elle soit.",
+      "defaultMessage": "11. Général. Les présentes Conditions, et toutes les réclamations relatives à ou découlant des présentes Conditions ou du Programme de récompense commerciale, ou de la violation de celles-ci, qu’elles soient contractuelles, délictuelles ou autres, seront régies à tous égards par les lois de l’État de New York, États-Unis, à l’exclusion des principes de choix de loi de cet État. Vous acceptez de soumettre tout litige découlant des présentes Conditions à un arbitrage contraignant. Nous ne garantissons pas un accès continu, ininterrompu ou sécurisé à nos services, et le fonctionnement du Site peut être perturbé par de nombreux facteurs indépendants de notre volonté. Si l’une quelconque des dispositions des présentes Conditions est jugée invalide ou inapplicable, ladite disposition sera annulée et les dispositions restantes seront appliquées. Vous acceptez que les présentes Conditions et tous les accords incorporés puissent être cédés et/ou transférés par 1stDibs, à sa seule discrétion. Les titres sont fournis à titre de référence uniquement et ne définissent, ne limitent, n’interprètent ou ne décrivent en aucune façon la portée ou l’étendue d’une telle section. Notre manquement à agir en ce qui concerne une violation par vous ou d’autres ne renonce pas à notre droit d’agir en ce qui concerne des violations ultérieures ou similaires. Les présentes Conditions énoncent l’intégralité de l’entente et de l’accord entre nous et vous concernant l’objet des présentes. Aucun frais d'adhésion n'est associé à Trade Rewards. Les Points de statut et les Points de récompense Cash accumulés dans le cadre du programme sont promotionnels et n'ont aucune valeur monétaire. Vos Récompenses commerciales et votre compte dans le cadre de ce Programme de récompenses commerciales sont personnels à l’entité pour le compte de laquelle vous avez conclu les présentes Conditions, et ne peuvent être vendues, transférées ou attribuées à, ou partagées avec toute autre entité quelle qu’elle soit.",
       "id": "abt.LoyaltyTerms.term_26"
     }
   ],
@@ -13009,11 +13009,11 @@
       "id": "abt.LoyaltyTerms2019.term_18"
     },
     {
-      "defaultMessage": "• Droits non-exclusifs du contenu de 1stDibs. Vous reconnaissez et acceptez qu'en soumettant du Contenu à 1stDibs, vous accordez à 1stDibs une licence non exclusive, perpétuelle et irrévocable sur ce Contenu, et vous garantissez que vous disposez de tous les droits légaux de le faire sans enfreindre les droits d'un tiers. Vous pouvez toujours faire ce que vous voulez avec votre Contenu (tant qu'il est légal), mais vous accordez par la présente à 1stDibs le droit de l'utiliser également. Par les présentes, vous accordez à 1stDibs et à ses successeurs, ayants droit et/ou personnes désignées autorisées un droit non exclusif, libre de redevances, perpétuel, irrévocable et pleinement susceptible d'octroi de sous-licences d'utiliser, de reproduire, de modifier, d'adapter, de publier, de traduire, de créer des œuvres dérivées à partir de, de distribuer et d'afficher le Contenu dans le monde entier sur tout support. Sans limiter la généralité de ce qui précède, Vous reconnaissez et acceptez que 1stDibs peut transférer, concéder sous licence (par le biais de plusieurs niveaux), sous-licencier, distribuer, copier, afficher, altérer, transformer, manipuler, modifier et autrement utiliser et reproduire tout le Contenu de quelque manière que ce soit et sur tout support, maintenant ou ultérieurement, existant, connu ou créé ultérieurement, et sans Vous fournir de nom, dans tout le monde entier, le monde entier, pour lequel vous faites votre 1stDibs promotion. {strongText}",
+      "defaultMessage": "• Droits non-exclusifs du contenu de 1stDibs. Vous reconnaissez et acceptez qu'en soumettant du Contenu à 1stDibs, vous accordez à 1stDibs une licence non exclusive, perpétuelle et irrévocable sur ce Contenu, et vous garantissez que vous disposez de tous les droits légaux de le faire sans enfreindre les droits d'un tiers. Vous pouvez toujours faire ce que vous voulez avec votre Contenu (tant qu'il est légal), mais vous accordez par la présente à 1stDibs le droit de l'utiliser également. Par les présentes, vous accordez à 1stDibs et à ses successeurs, ayants droit et/ou personnes désignées autorisées un droit non exclusif, libre de redevances, perpétuel, irrévocable et pleinement susceptible d'octroi de sous-licences d'utiliser, de reproduire, de modifier, d'adapter, de publier, de traduire, de créer des œuvres dérivées à partir de, de distribuer et d'afficher le Contenu dans le monde entier sur tout support. Sans limiter la généralité de ce qui précède, Vous reconnaissez et acceptez que 1stDibs peut transférer, concéder sous licence (par le biais de plusieurs niveaux), sous-licencier, distribuer, copier, afficher, altérer, transformer, manipuler, modifier et autrement utiliser et reproduire tout le Contenu de quelque manière que ce soit et sur tout support, maintenant ou ultérieurement 1stDibs, existant, connu ou créé ultérieurement, et sans Vous fournir de nom, dans tout le monde entier, le monde entier, pour lequel vous faites votre promotion. {strongText}",
       "id": "abt.LoyaltyTerms2019.term_19"
     },
     {
-      "defaultMessage": "VEUILLEZ LIRE ATTENTIVEMENT LES PRÉSENTES CONDITIONS D’UTILISATION. EN CLIQUANT SUR “I AGREEMENT”, EN RECONNAISSANT VOTRE ACCEPTATION PAR L’INTERMÉDIAIRE D’UN AUTRE MÉCANISME RAISONNABLEMENT ACCEPTABLE POUR 1STDIBS, INC. (E.G., par exemple dans le but de vous conformer), ou par le biais de l'accès ou de la participation dans le 1stDibs projet de réunions de travail, vous êtes susceptible d'être mis en application par leurs plateformes d'utilisation et toutes les plateformes d'utilisation et toutes les plateformes d'utilisation encore identifiées par la réglementation. Si vous n’avez pas accès à leurs ressources d’utilisation, ne les citez pas dans le 1stDibs plan de travail des semences.",
+      "defaultMessage": "VEUILLEZ LIRE ATTENTIVEMENT LES PRÉSENTES CONDITIONS D’UTILISATION. EN CLIQUANT SUR “I AGREEMENT”, EN RECONNAISSANT VOTRE ACCEPTATION PAR L’INTERMÉDIAIRE D’UN AUTRE MÉCANISME RAISONNABLEMENT ACCEPTABLE POUR 1STDIBS, INC. (E.G., par exemple dans le but de vous conformer), ou par le biais de l'accès ou de la participation dans le 1stDibs de réunions de travail, vous êtes susceptible d'être mis en application par leurs plateformes d'utilisation et toutes les plateformes d'utilisation et toutes les plateformes d'utilisation encore identifiées par la réglementation. Si vous n’avez pas accès à leurs ressources d’utilisation, ne les citez pas dans le 1stDibs travail des semences.",
       "id": "abt.LoyaltyTerms2019.term_2"
     },
     {
@@ -13029,7 +13029,7 @@
       "id": "abt.LoyaltyTerms2019.term_22"
     },
     {
-      "defaultMessage": "8. Limite de responsabilité. EN AUCUN CAS 1STDIBS. COM, INC., SES SOCIÉTÉS AFFILIÉES OU L’UN DE LEURS ADMINISTRATEURS RESPECTIFS, AGENTS DE POLICE, EMPLOYÉS, AGENTS, PARTENAIRES, FILIALES, DIVISIONS, SUCCESSEURS, FOURNISSEURS, DISTRIBUTEURS, FOURNISSEURS, ENTREPRENEURS, OU DES REPRÉSENTANTS (COLLECTIVEMENT, LES \"PARTIES LIBÉRÉES\") SONT RESPONSABLES DE TOUTE RESPONSABILITÉ INDIRECTE, SPÉCIAL, ACCESSOIRE, ACCESSOIRE, CONSÉCUTIF, DES DOMMAGES EXEMPLAIRES OU PUNITIFS DÉCOULANT DE, OU DIRECTEMENT OU INDIRECTEMENT LIÉS AU PRÉSENT ACCORD OU AU PROGRAMME DE RÉCOMPENSES COMMERCIALES, Y COMPRIS, SANS LIMITATION, PERTE DE REVENUS, OU LES BÉNÉFICES ANTICIPÉS, OU D’ACTIVITÉ PERDUE, DONNÉES OU VENTES, OU COÛT DES SERVICES DE SUBSTITUTION, MÊME SI 1STDIBS OU SON REPRÉSENTANT OU UNE TELLE PERSONNE A ÉTÉ INFORMÉ DE LA POSSIBILITÉ DE TELS DOMMAGES. SAUF DANS LA MESURE INTERDITE PAR LA LOI APPLICABLE : EN AUCUN CAS LA RESPONSABILITÉ TOTALE DES PARTIES LIBÉRÉES ENVERS VOUS POUR TOUS LES DOMMAGES, PERTES ET CAUSES D’ACTION (QUE CE SOIT EN MATIÈRE CONTRACTUELLE OU DÉLICTUELLE, Y COMPRIS, MAIS SANS S’Y LIMITER, LA NÉGLIGENCE OU AUTRE) DÉCOULANT D’UNE VIOLATION DES PRÉSENTES CONDITIONS NE DÉPASSERA, AU TOTAL, CENT DOLLARS (100,00 USD).",
+      "defaultMessage": "8. Limite de responsabilité. EN AUCUN CAS 1STDIBS. COM, INC., SES SOCIÉTÉS AFFILIÉES OU L’UN DE LEURS ADMINISTRATEURS RESPECTIFS, AGENTS DE POLICE, EMPLOYÉS, AGENTS, PARTENAIRES, FILIALES, DIVISIONS, SUCCESSEURS, FOURNISSEURS, DISTRIBUTEURS, FOURNISSEURS, ENTREPRENEURS, OU DES REPRÉSENTANTS (COLLECTIVEMENT, LES \"PARTIES LIBÉRÉES\") SONT RESPONSABLES DE TOUTE RESPONSABILITÉ INDIRECTE, SPÉCIAL, ACCESSOIRE, ACCESSOIRE, CONSÉCUTIF, DES DOMMAGES EXEMPLAIRES OU PUNITIFS DÉCOULANT DU PRÉSENT ACCORD OU DU PROGRAMME DE RÉCOMPENSES COMMERCIALES, OU DIRECTEMENT OU INDIRECTEMENT LIÉS À CELUI-CI, Y COMPRIS, SANS LIMITATION, PERTE DE REVENUS, OU LES BÉNÉFICES ANTICIPÉS, OU DES AFFAIRES PERDUES, DONNÉES OU VENTES, OU COÛT DES SERVICES DE SUBSTITUTION, MÊME SI 1STDIBS OU SON REPRÉSENTANT OU UNE TELLE PERSONNE A ÉTÉ INFORMÉ DE LA POSSIBILITÉ DE TELS DOMMAGES. SAUF DANS LA MESURE INTERDITE PAR LA LOI APPLICABLE : EN AUCUN CAS LA RESPONSABILITÉ TOTALE DES PARTIES LIBÉRÉES À VOTRE ÉGARD POUR TOUS LES DOMMAGES, PERTES ET CAUSES D’ACTION (QU’IL S’AGISSE D’UN CONTRAT OU D’UN DÉLIT, Y COMPRIS, MAIS SANS S’Y LIMITER, LA NÉGLIGENCE OU AUTRE) DÉCOULANT D’UNE VIOLATION DES PRÉSENTES CONDITIONS NE DÉPASSERA, AU TOTAL, CENT DOLLARS (100,00 USD).",
       "id": "abt.LoyaltyTerms2019.term_23"
     },
     {
@@ -13037,15 +13037,15 @@
       "id": "abt.LoyaltyTerms2019.term_24"
     },
     {
-      "defaultMessage": "10. Arbitrage ; Renonciation au procès devant jury et recours collectif. Tout litige, controverse ou réclamation découlant des présentes Conditions ou s’y rapportant, ou toute violation de celles-ci ou toute transaction y afférente, qui ne peut être résolue par négociation entre les parties dans un délai de trente (30) jours, sera soumis à l’American Arbitration Association (AAA) pour un arbitrage obligatoire contraignant devant un arbitre unique choisi conformément aux Règles de l’AAA. L’arbitre n’accordera aucune réparation non monétaire ou équitable de quelque sorte que ce soit, ni n’accordera de dommages et intérêts incompatibles avec les présentes Conditions. Tous les aspects de l'arbitrage seront traités comme confidentiels. Ni les parties ni l’arbitre ne peuvent divulguer l’existence, le contenu ou les résultats de l’arbitrage, sauf si cela est nécessaire pour faire appliquer les résultats de l’arbitrage ou pour se conformer aux exigences légales ou réglementaires. L’arbitre rendra sa sentence par écrit et inclura les conclusions de fait et la conclusion de la loi sur laquelle se fonde la sentence. Le résultat de l’arbitrage liera les parties et le jugement sur la sentence arbitrale pourra être rendu dans tout tribunal compétent. En plus de toute autre mesure de redressement à laquelle une partie peut avoir droit, l’arbitre accordera des honoraires et frais d’avocat raisonnables, y compris des honoraires et frais raisonnables de témoin expert, à la partie gagnante (en cas d’arbitrage). {strongText} Lorsque cela est exécutoire, vous n’avez pas besoin d’être admis à collaborer ou à CONSOLIDER des CLAIMS PAR OU AGATER D’autres personnes ou personnes démontrant qu’elles sont impliquées, ou qu’elles ont abîmé un droit d’auteur en tant que référents, responsables ou sous un précurseur. Si une disposition de la présente convention d'arbitrage est jugée inapplicable, la disposition inapplicable sera supprimée, et les conditions d'arbitrage restantes seront appliquées (mais en aucun cas il n'y aura d'arbitrage collectif). Nonobstant ce qui précède, rien dans les présentes Conditions n’interdit à l’une ou l’autre des parties de demander et d’obtenir d’un tribunal compétent (sans nécessité d’enregistrer une caution) une mesure injonctive afin de préserver le statu quo et/ou d’éviter un préjudice irréparable pour lequel un dommage monétaire serait insuffisant.",
+      "defaultMessage": "10. Arbitrage ; Renonciation au procès devant jury et recours collectif. Tout litige, controverse ou réclamation découlant des présentes Conditions ou s’y rapportant, ou toute violation de celles-ci ou de toute transaction y afférente, qui ne peut être résolue par négociation entre les parties dans un délai de trente (30) jours, sera soumis à l’Association américaine d’arbitrage (American Arbitration Association, AAA) pour un arbitrage obligatoire contraignant devant un arbitre unique choisi conformément aux Règles de l’AAA. L’arbitre n’accordera aucune réparation non monétaire ou équitable de quelque sorte que ce soit, ni n’accordera de dommages-intérêts incompatibles avec les présentes Conditions. Tous les aspects de l'arbitrage seront traités comme confidentiels. Ni les parties ni l’arbitre ne peuvent divulguer l’existence, le contenu ou les résultats de l’arbitrage, sauf si cela est nécessaire pour faire appliquer les résultats de l’arbitrage ou pour se conformer aux exigences légales ou réglementaires. L’arbitre rendra sa sentence par écrit et inclura les conclusions de fait et la conclusion de la loi sur laquelle se fonde la sentence. Le résultat de l’arbitrage liera les parties et le jugement sur la sentence arbitrale pourra être rendu dans tout tribunal compétent. En plus de toute autre mesure de redressement à laquelle une partie peut avoir droit, l’arbitre accordera des honoraires et frais d’avocat raisonnables, y compris des honoraires et frais raisonnables de témoin expert, à la partie gagnante (en cas d’arbitrage). {strongText} Lorsque cela est exécutoire, vous n’avez pas besoin d’être admis à collaborer ou à CONSOLIDER des CLAIMS PAR OU AGATER D’autres personnes ou personnes démontrant qu’elles sont impliquées, ou qu’elles ont abîmé un droit d’accès comme un responsable juridique, un responsable juridique ou un responsable juridique. Si une disposition de la présente convention d'arbitrage est jugée inapplicable, la disposition inapplicable sera supprimée, et les conditions d'arbitrage restantes seront appliquées (mais en aucun cas il n'y aura d'arbitrage collectif). Nonobstant ce qui précède, rien dans les présentes Conditions n’interdit à l’une ou l’autre des parties de demander et d’obtenir d’un tribunal compétent (sans nécessité de déposer une caution) une mesure d’injonction afin de préserver le statu quo et/ou d’éviter un préjudice irréparable pour lequel un dommage monétaire serait insuffisant.",
       "id": "abt.LoyaltyTerms2019.term_25"
     },
     {
-      "defaultMessage": "11. Général. Les présentes Conditions, et toutes les réclamations relatives à ou découlant des présentes Conditions ou du Programme de récompenses commerciales, ou de la violation de celles-ci, qu’elles soient contractuelles, délictuelles ou autres, seront régies à tous égards par les lois de l’État de New York, États-Unis, à l’exclusion des principes de choix de loi de cet État. Vous acceptez de soumettre tout litige découlant des présentes Conditions à un arbitrage contraignant à New York, NY. Nous ne garantissons pas un accès continu, ininterrompu ou sécurisé à nos services, et le fonctionnement du Site peut être perturbé par de nombreux facteurs indépendants de notre volonté. Si l’une quelconque des dispositions des présentes Conditions est jugée invalide ou inapplicable, ladite disposition sera annulée et les dispositions restantes seront appliquées. Vous acceptez que les présentes Conditions et tous les accords incorporés puissent être cédés et/ou transférés par 1stDibs, à sa seule discrétion. Les intitulés sont fournis à titre de référence uniquement et ne définissent, ne limitent, n’interprètent ou ne décrivent en aucune façon la portée ou l’étendue d’une telle section. Notre manquement à agir à l’égard d’une violation par vous ou d’autres ne renonce pas à notre droit d’agir à l’égard de violations ultérieures ou similaires. Les présentes Conditions énoncent l’intégralité de l’entente et de l’accord entre nous et vous concernant l’objet des présentes. Aucun frais d'adhésion n'est associé aux récompenses commerciales. Les points de statut et les points Cash Rewards accumulés dans le cadre du programme sont promotionnels et n'ont aucune valeur monétaire. Vos Récompenses commerciales et votre compte dans le cadre de ce Programme de récompenses commerciales sont personnels à l’entité pour le compte de laquelle vous avez conclu les présentes Conditions, et ne peuvent être vendues, transférées ou attribuées à, ou partagées avec toute autre entité quelle qu’elle soit.",
+      "defaultMessage": "11. Général. Les présentes Conditions, et toutes les réclamations relatives à ou découlant des présentes Conditions ou du Programme de récompense commerciale, ou de la violation de celles-ci, qu’elles soient contractuelles, délictuelles ou autres, seront régies à tous égards par les lois de l’État de New York, États-Unis, à l’exclusion des principes de choix de loi de cet État. Vous acceptez de soumettre tout litige découlant des présentes Conditions à un arbitrage contraignant à New York, NY. Nous ne garantissons pas un accès continu, ininterrompu ou sécurisé à nos services, et le fonctionnement du Site peut être perturbé par de nombreux facteurs indépendants de notre volonté. Si l’une quelconque des dispositions des présentes Conditions est jugée invalide ou inapplicable, ladite disposition sera annulée et les dispositions restantes seront appliquées. Vous acceptez que les présentes Conditions et tous les accords incorporés puissent être cédés et/ou transférés par 1stDibs, à sa seule discrétion. Les titres sont fournis à titre de référence uniquement et ne définissent, ne limitent, n’interprètent ou ne décrivent en aucune façon la portée ou l’étendue d’une telle section. Notre manquement à agir en ce qui concerne une violation par vous ou d’autres ne renonce pas à notre droit d’agir en ce qui concerne des violations ultérieures ou similaires. Les présentes Conditions énoncent l’intégralité de l’entente et de l’accord entre nous et vous concernant l’objet des présentes. Aucun frais d'adhésion n'est associé à Trade Rewards. Les Points de statut et les Points de récompense Cash accumulés dans le cadre du programme sont promotionnels et n'ont aucune valeur monétaire. Vos Récompenses commerciales et votre compte dans le cadre de ce Programme de récompenses commerciales sont personnels à l’entité pour le compte de laquelle vous avez conclu les présentes Conditions, et ne peuvent être vendues, transférées ou attribuées à, ou partagées avec toute autre entité quelle qu’elle soit.",
       "id": "abt.LoyaltyTerms2019.term_26"
     },
     {
-      "defaultMessage": "Les Conditions d'utilisation du programme de récompenses commerciales 1stDibs (ces \"Conditions\") décrivent les conditions générales en vertu desquelles 1stdibs.com, Inc. (\"1stDibs\", \"nous\", \"notre(nos)\" ou \"nous\") vous offre le potentiel de gagner des récompenses et des avantages en espèces (les \"Rémunérations commerciales\") en fonction du nombre de points que votre entreprise gagne. Il existe deux types de points que votre entreprise peut gagner dans ce programme : (1) “Points de statut” sont des points qui déterminent le niveau d'adhésion auquel votre entreprise appartient ; et (2) “Points de récompense en espèces” sont des points qui déterminent le montant des récompenses en espèces que votre entreprise gagne. Vous pouvez gagner des points en achetant des marchandises éligibles avec votre compte 1stDibs (pour vos clients ou vous-même) sur notre site Web (le \"Site\") ou par d'autres actions annoncées par 1stDibs. Le programme décrit dans les présentes Conditions par lequel vous gagnez des Récompenses commerciales est appelé le “Programme de récompense commerciale”. Le point auquel vous avez droit à un avantage distinct dans le cadre du Programme de récompenses commerciales est appelé \"Niveau cible de récompense\".",
+      "defaultMessage": "Les Conditions d'utilisation du programme de récompenses commerciales 1stDibs (ces \"Conditions\") décrivent les conditions générales en vertu desquelles 1stdibs.com, Inc. (\"1stDibs,\", \"nous\", \"notre(nos)\" ou \"nous\") vous offre le potentiel de gagner des récompenses et des avantages en espèces (les \"Rémunérations commerciales\") en fonction du nombre de points que votre entreprise gagne. Il existe deux types de points que votre entreprise peut gagner dans ce programme : (1) “Points de statut” sont des points qui déterminent le niveau d'adhésion auquel votre entreprise appartient ; et (2) “Points de récompense en espèces” sont des points qui déterminent le montant des récompenses en espèces que votre entreprise gagne. Des points peuvent être gagnés en achetant des marchandises éligibles avec votre compte 1stDibs (pour vos clients ou vous-même) sur notre site Web (le \"Site\") ou par d'autres actions annoncées par 1stDibs. Le programme décrit dans les présentes Conditions par lequel vous gagnez des Récompenses commerciales est appelé le “Programme de récompenses commerciales”. Le point auquel vous avez droit à un avantage distinct dans le cadre du Programme de récompenses commerciales est appelé \"Niveau cible de récompense\".",
       "id": "abt.LoyaltyTerms2019.term_3"
     },
     {
@@ -13053,7 +13053,7 @@
       "id": "abt.LoyaltyTerms2019.term_4"
     },
     {
-      "defaultMessage": "Les Récompenses commerciales sont uniquement destinées et disponibles pour les décorateurs d’intérieur professionnels et les architectes qui participent au Programme commercial du 1stDibs (\" Concepteurs vérifiés\"), un programme comprenant une suite d’avantages pour les membres vérifiés de la profession. En acceptant les présentes Conditions, vous nous déclarez et garantissez que vous êtes un Concepteur vérifié.",
+      "defaultMessage": "Les Récompenses commerciales sont uniquement destinées et disponibles pour les décorateurs d’intérieur professionnels et les architectes qui participent au Programme commercial du 1stDibs (\"Concepteurs vérifiés\"), un programme comprenant une suite d’avantages pour les membres vérifiés de la profession. En acceptant les présentes Conditions, vous nous déclarez et garantissez que vous êtes un Designer vérifié.",
       "id": "abt.LoyaltyTerms2019.term_5"
     },
     {
@@ -13061,21 +13061,21 @@
       "id": "abt.LoyaltyTerms2019.term_6"
     },
     {
-      "defaultMessage": "(A) 1stDibs fournira un calendrier des avantages associés à différents niveaux de points sur son site Web à l’adresse {link}. Les détails concernant la façon dont les Points de statut et les Points de récompense Cash sont gagnés, la manière dont les récompenses sont déterminées et les avantages de chaque niveau d’adhésion sont indiqués sur le Site à l’adresse {link}, qui est incorporée aux présentes Conditions par cette référence.",
+      "defaultMessage": "(A) 1stDibs fournira un calendrier des avantages associés à différents niveaux de points sur son site Web à l’adresse {link}. Les détails concernant la façon dont les Points de statut et les Points de récompense Cash sont gagnés, la manière dont les récompenses sont déterminées et les avantages de chaque niveau d’adhésion sont définis sur le Site à l’adresse {link}, qui est incorporée aux présentes Conditions par cette référence.",
       "id": "abt.LoyaltyTerms2019.term_7"
     },
     {
-      "defaultMessage": "(B) Pour éviter d'envoyer des espèces par courrier, la récompense commerciale vous sera envoyée sous la forme d'une carte prépayée American Express ou Visa (la carte prépayée Trade Reward Cash Card ou Cash Card, la marque envoyée est à notre discrétion), qui est échangeable contre des marchandises partout où les cartes prépayées Amex ou Visa sont acceptées, sous réserve de toute limitation imposée par Amex/Visa et par les commerçants. La carte-cadeau Trade Reward Cash sera envoyée par courrier ou par un service de livraison reconnu/transporteur de colis à l’attention de la personne de contact désignée dans votre entreprise, qui est la personne qui vous inscrit au programme (sauf si une personne de contact différente est indiquée sur le formulaire d’inscription). Toutefois, si la personne à contacter désignée quitte votre société, vous devez nous en informer et nommer une nouvelle personne à contacter. Les points et les Récompenses commerciales sont destinés à vous (l’entité) et ne sont pas destinés à être personnels à la personne qui a exécuté ces conditions/ont été désignés comme personne à contacter.",
+      "defaultMessage": "(B) Pour éviter d'envoyer de l'argent par courrier, la récompense commerciale vous sera envoyée sous la forme d'une carte prépayée American Express ou Visa (la carte prépayée \"Trade Reward Cash Card\" ou \"Cash Card\", la marque envoyée est à notre discrétion), qui est échangeable contre des marchandises partout où les cartes prépayées Amex ou Visa sont acceptées, sous réserve de toute limitation imposée par Amex/Visa et par les commerçants. La carte Trade Reward Cash sera envoyée par courrier ou par un service de livraison/transporteur de colis reconnu à l’attention de la personne de contact désignée dans votre entreprise, qui est la personne qui vous inscrit au programme (sauf si une personne de contact différente est indiquée sur le formulaire d’inscription). Toutefois, si la personne à contacter désignée quitte votre société, vous devez nous en informer et nommer une nouvelle personne à contacter. Les points et les Récompenses commerciales sont destinés à vous (l’entité) et ne sont pas destinés à être personnels à la personne qui a exécuté ces conditions/ont été désignés comme personne à contacter.",
       "id": "abt.LoyaltyTerms2019.term_8"
     },
     {
-      "defaultMessage": "(C) Nous ne sommes pas responsables de la perte ou du vol de votre récompense Cash Card Trade Reward. Nous ne sommes pas responsables de l’utilisation de la Carte de paiement après qu’elle a été envoyée (y compris l’utilisation abusive par vos employés/personnes à contacter actuels ou anciens), et nous ne sommes pas responsables de tout ce que vous achetez avec elle (ni de tout ce qui a trait à votre achat ou aux résultats de votre achat), ou de tout problème que vous pourriez rencontrer lors de l’utilisation de la Carte de paiement. Vous devez résoudre ces problèmes avec les commerçants ou la banque émettrice de la carte de paiement (le cas échéant). {strongText}",
+      "defaultMessage": "(C) Nous ne sommes pas responsables de la perte ou du vol de votre récompense de la carte Cash Card Trade Reward. Nous ne sommes pas responsables de l’utilisation de la Carte de paiement après qu’elle a été envoyée (y compris l’utilisation abusive par vos employés/personnes à contacter actuels ou anciens), et nous ne sommes pas responsables de tout ce que vous achetez avec elle (ni de tout ce qui a trait à votre achat ou aux résultats de votre achat), ou de tout problème que vous pourriez rencontrer lors de l’utilisation de la Carte de paiement. Vous devez aborder ces problèmes avec les commerçants ou la banque émettrice de la carte de paiement (le cas échéant). {strongText}",
       "id": "abt.LoyaltyTerms2019.term_9"
     }
   ],
   "apps/app-buyer-trade/src/loyaltyTerms/LoyaltyTermsWrapper.jsx": [
     {
-      "defaultMessage": "1Programme de récompenses commerciales (1stDibs — CONDITIONS D’UTILISATION",
+      "defaultMessage": "1Programme de récompenses commerciales (fidélité) 1stDibs — CONDITIONS D’UTILISATION",
       "id": "abt.LoyaltyTerms.legal_header"
     },
     {
@@ -13129,11 +13129,11 @@
       "id": "abt.matchmaker.MatchmakerContainer.requiredField_errorTime"
     },
     {
-      "defaultMessage": "Comment cela fonctionne",
+      "defaultMessage": "Comment ça fonctionne",
       "id": "abt.matchmaker.formStepContacts.scrollToStart"
     },
     {
-      "defaultMessage": "Nous utiliserons ces informations pour vous faire correspondre à un designer qui répond le mieux aux besoins de votre projet.",
+      "defaultMessage": "Nous utiliserons ces informations pour vous faire correspondre à un concepteur qui répond le mieux aux besoins de votre projet.",
       "id": "abt.matchmaker.formStepContacts.step1Subtitle"
     },
     {
@@ -13153,7 +13153,7 @@
       "id": "abt.matchmaker.formStepPreference.bannerTitle"
     },
     {
-      "defaultMessage": "Vous cherchez à repenser votre espace ? Commencez par nous faire connaître vos préférences de projet et de style ci-dessous.",
+      "defaultMessage": "Vous cherchez à repenser votre espace ? Commencez par nous indiquer ci-dessous vos préférences de projet et de style.",
       "id": "abt.matchmaker.formStepPreference.headerMessage"
     }
   ],
@@ -13169,7 +13169,7 @@
       "id": "abt.matchmaker.formStepConfirmation.browsePieces"
     },
     {
-      "defaultMessage": "Vue intérieur",
+      "defaultMessage": "Vue intérieure",
       "id": "abt.matchmaker.formStepConfirmation.buttonText"
     },
     {
@@ -13325,7 +13325,7 @@
   ],
   "apps/app-buyer-trade/src/matchmaker/WorkspaceMatchmaker/HowItWorks.jsx": [
     {
-      "defaultMessage": "Comment cela fonctionne",
+      "defaultMessage": "Comment ça fonctionne",
       "id": "abt.matchmaker.howItWorks.instructionTitle"
     },
     {
@@ -13423,7 +13423,7 @@
   ],
   "apps/app-buyer-trade/src/projectEdit/actions/project/saveProject.jsx": [
     {
-      "defaultMessage": "Vous ne pouvez pas sauvegarder un projet actif sans créer d'abord un nouveau brouillon.",
+      "defaultMessage": "Vous ne pouvez pas sauvegarder sur un projet actif sans créer d'abord un nouveau brouillon.",
       "id": "abt.projectEditor.saveProject.active"
     },
     {
@@ -13435,7 +13435,7 @@
       "id": "abt.projectEditor.saveProject.noTitle"
     },
     {
-      "defaultMessage": "Aucune photo valide présente. Veuillez ajouter au moins une photo valide pour l’enregistrer.",
+      "defaultMessage": "Aucune photo valide présente. Veuillez ajouter au moins une photo valide pour l'enregistrer.",
       "id": "abt.projectEditor.saveProject.noValidPhotos"
     },
     {
@@ -13471,7 +13471,7 @@
       "id": "abt.projectEdit.ProjectForm.publish"
     },
     {
-      "defaultMessage": "Enregistrement de . . .",
+      "defaultMessage": "Enregistrement . . .",
       "id": "abt.projectEdit.ProjectForm.saveInProgressLabel"
     },
     {
@@ -13563,7 +13563,7 @@
       "id": "abt.projectEditor.tagInstructions.noTags.list1.title"
     },
     {
-      "defaultMessage": "Étiquetez toutes les pièces qui sont remarquables, mais également similaires aux meubles et au décor que les visiteurs pourraient trouver sur les 1stDibs.",
+      "defaultMessage": "Étiquetez toutes les pièces qui sont remarquables, mais qui sont également similaires aux meubles et au décor que les visiteurs peuvent trouver sur les 1stDibs.",
       "id": "abt.projectEditor.tagInstructions.noTags.list2.item1"
     },
     {
@@ -13571,7 +13571,7 @@
       "id": "abt.projectEditor.tagInstructions.noTags.list2.noTags"
     },
     {
-      "defaultMessage": "Cliquez n'importe où sur la photo pour marquer le mobilier et la décoration. Nous utiliserons les informations que vous nous donnez à propos de chaque article pour trouver et afficher des pièces similaires à vendre sur les 1stDibs, permettant aux clients qui sont inspirés par vos projets de \"savoir le look\". Plus vous ajoutez d’étiquettes, plus les clients 1stDibs peuvent apprendre à vous connaître, vous et votre travail.",
+      "defaultMessage": "Cliquez n'importe où sur la photo pour marquer le mobilier et la décoration. Nous utiliserons les informations que vous nous donnez sur chaque article pour trouver et afficher des pièces similaires à vendre sur les 1stDibs, ce qui permet aux clients qui sont inspirés par vos projets d'obtenir le look. Plus vous ajoutez d’étiquettes, plus les clients 1stDibs peuvent apprendre à vous connaître et à connaître votre travail.",
       "id": "abt.projectEditor.tagInstructions.noTags.paragraph"
     }
   ],
@@ -13585,7 +13585,7 @@
       "id": "abt.projectEditor.tagInstructions.someTags.paragraph1"
     },
     {
-      "defaultMessage": "Pour ajouter des balises à une nouvelle photo, retournez à la page Éditeur de projet en cliquant sur “Marquage cloné” dans le coin supérieur gauche.",
+      "defaultMessage": "Pour ajouter des balises à une nouvelle photo, retournez à la page Éditeur de projet en cliquant sur \"Marquage cloné\" dans le coin supérieur gauche.",
       "id": "abt.projectEditor.tagInstructions.someTags.paragraph2"
     }
   ],
@@ -13727,7 +13727,7 @@
       "id": "abt.TradeReferralCopy.exposition_cabana"
     },
     {
-      "defaultMessage": "Vos collègues auront accès à des tarifs commerciaux (réduction moyenne de 15 %), à la livraison gratuite lors de leur premier achat et à plus d’avantages réservés aux concepteurs lorsqu’ils s’inscrivent.",
+      "defaultMessage": "Vos collègues auront accès à la tarification commerciale (réduction moyenne de 15 %), à la livraison gratuite lors de leur premier achat et à plus d’avantages réservés aux concepteurs lorsqu’ils s’inscrivent.",
       "id": "abt.TradeReferralCopy.exposition_default"
     },
     {
@@ -13819,7 +13819,7 @@
       "id": "abt.RewardsMessages.firmEnrolled"
     },
     {
-      "defaultMessage": "Êtes-vous dans une entreprise ? Veuillez nous le faire savoir, afin que vous puissiez accéder à l’ensemble des avantages du programme commercial.",
+      "defaultMessage": "Êtes-vous dans une entreprise ? Veuillez nous le faire savoir, afin que vous puissiez accéder à tous les avantages du programme commercial.",
       "id": "abt.RewardsMessages.firmless"
     },
     {
@@ -13839,7 +13839,7 @@
       "id": "abt.RewardsMessages.loggedOut"
     },
     {
-      "defaultMessage": "Êtes-vous un architecte ou un architecte d’intérieur ? Si c’est le cas, veuillez d’abord demander une adhésion Trade pour accéder à Trade Rewards.",
+      "defaultMessage": "Êtes-vous un architecte ou designer d’intérieur ? Si c'est le cas, veuillez d'abord demander une adhésion Trade pour accéder à Trade Rewards.",
       "id": "abt.RewardsMessages.notTrade"
     }
   ],
@@ -13925,7 +13925,7 @@
       "id": "abt.rewards.PointsSummary.memberSummaryNoSpend"
     },
     {
-      "defaultMessage": "Gardez-le à jour ! Gagner {pointsNeededToAchieveNextStatus} pour atteindre {nextStatusName}.",
+      "defaultMessage": "Gardez-le à jour ! Gagnez {pointsNeededToAchieveNextStatus} pour atteindre {nextStatusName}.",
       "id": "abt.rewards.PointsSummary.memberSummarySpend"
     },
     {
@@ -13955,7 +13955,7 @@
       "id": "reward.ProfileStatusModule.Body.inProgressHeader"
     },
     {
-      "defaultMessage": "Statut du profil de l'entreprise",
+      "defaultMessage": "Statut du profil du cabinet",
       "id": "rewards.ProfileStatusModule.Body.active.profile.header"
     },
     {
@@ -13983,7 +13983,7 @@
       "id": "rewards.ProfileStatusModule.Body.inProgressMessage"
     },
     {
-      "defaultMessage": "Obtenez une exposition à nos clients à valeur nette élevée avec le portefeuille de votre entreprise présenté sur notre site.",
+      "defaultMessage": "Obtenez une exposition à nos clients fortunés grâce au portefeuille de votre entreprise présenté sur notre site.",
       "id": "rewards.ProfileStatusModule.Body.new"
     },
     {
@@ -13999,7 +13999,7 @@
       "id": "rewards.ProfileStatusModule.Body.noTpn.profile.header"
     },
     {
-      "defaultMessage": "projet",
+      "defaultMessage": "brouillon",
       "id": "rewards.ProfileStatusModule.Body.noTpn.profile.status"
     },
     {
@@ -14011,11 +14011,11 @@
       "id": "rewards.ProfileStatusModule.Body.noTpn.project.status"
     },
     {
-      "defaultMessage": "Statut du profil de l'entreprise",
+      "defaultMessage": "Statut du profil du cabinet",
       "id": "rewards.ProfileStatusModule.Body.pending.profile.header"
     },
     {
-      "defaultMessage": "projet",
+      "defaultMessage": "brouillon",
       "id": "rewards.ProfileStatusModule.Body.pending.profile.status"
     },
     {
@@ -14113,7 +14113,7 @@
       "id": "abt.workspace.request_consultation"
     },
     {
-      "defaultMessage": "Demander une démo Workspace",
+      "defaultMessage": "Demander démo Workspace",
       "id": "abt.workspace.request_demo"
     },
     {
@@ -14181,7 +14181,7 @@
   ],
   "apps/app-buyer-trade/src/server/routes/interiors.jsx": [
     {
-      "defaultMessage": "Parcourez une collection époustouflante de décorations d’intérieur provenant des meilleurs designers, architectes et décorateurs au monde sur 1stDibs, le marché en ligne leader mondial des plus belles choses de la Terre.",
+      "defaultMessage": "Parcourez une collection époustouflante de décorations d’intérieur provenant des plus grands designers, architectes et décorateurs au monde sur 1stDibs, le marché en ligne le plus important au monde pour les plus belles choses de la Terre.",
       "id": "abt.interiorsLanding.meta.description"
     },
     {
@@ -14263,7 +14263,7 @@
       "id": "abt.sourcing.content.aboutProjectHeader"
     },
     {
-      "defaultMessage": "Partagez certaines informations sur votre projet et les éléments dont vous avez besoin.",
+      "defaultMessage": "Partagez des informations sur votre projet et les éléments dont vous avez besoin.",
       "id": "abt.sourcing.content.aboutProjectSubheader"
     },
     {
@@ -14279,7 +14279,7 @@
       "id": "abt.sourcing.content.getStarted"
     },
     {
-      "defaultMessage": "Comment cela fonctionne",
+      "defaultMessage": "Comment ça fonctionne",
       "id": "abt.sourcing.content.header"
     },
     {
@@ -14321,7 +14321,7 @@
   ],
   "apps/app-buyer-trade/src/sourcing/Header.tsx": [
     {
-      "defaultMessage": "Comment cela fonctionne",
+      "defaultMessage": "Comment ça fonctionne",
       "id": "abt.sourcing.header.cta"
     },
     {
@@ -14329,7 +14329,7 @@
       "id": "abt.sourcing.header.header"
     },
     {
-      "defaultMessage": "Nous nous engageons à assurer votre réussite en tant que membre commercial, et c’est pourquoi nous offrons notre service d’approvisionnement gratuit, afin que vous puissiez gagner du temps et vous concentrer sur votre travail.",
+      "defaultMessage": "Nous nous engageons à votre réussite en tant que membre commercial, et c’est pourquoi nous offrons notre service d’approvisionnement gratuit, afin que vous puissiez gagner du temps et vous concentrer sur votre travail.",
       "id": "abt.sourcing.header.subheader"
     }
   ],
@@ -14363,7 +14363,7 @@
       "id": "abt.sourcing.loggedOut.line1"
     },
     {
-      "defaultMessage": "Vous êtes architecte ou designer d'intérieur ?",
+      "defaultMessage": "Êtes-vous un architecte ou un architecte d'intérieur ?",
       "id": "abt.sourcing.loggedOut.line2"
     }
   ],
@@ -14517,7 +14517,7 @@
   ],
   "apps/app-buyer-trade/src/workspace/inbox/WorkspaceInboxConversations.jsx": [
     {
-      "defaultMessage": "Vous n'avez pas de messages ici !",
+      "defaultMessage": "Vous n'avez aucun message ici !",
       "id": "abt.WorkspaceInboxConversations.empty_inbox_heading"
     },
     {
@@ -14717,7 +14717,7 @@
       "id": "abt.WorkspaceInboxFilters.empty_inbox_filter_all"
     },
     {
-      "defaultMessage": "Vous pouvez accéder à l'outil d'archivage dans le menu Organiser.",
+      "defaultMessage": "Vous pouvez accéder à l'outil d'archivage sous le menu Organiser.",
       "id": "abt.WorkspaceInboxFilters.empty_inbox_filter_archived"
     }
   ],
@@ -14997,11 +14997,11 @@
   ],
   "apps/app-buyer-trade/src/workspace/overview/WorkspaceOverviewBuyerResponseCta.jsx": [
     {
-      "defaultMessage": "Voir les détails",
+      "defaultMessage": "Afficher les détails",
       "id": "abt.WorkspaceOverviewBuyerResponseCta.cancelOrder"
     },
     {
-      "defaultMessage": "Terminer l'achat",
+      "defaultMessage": "Achèvement de l'achat",
       "id": "abt.WorkspaceOverviewBuyerResponseCta.confirmOrder"
     }
   ],
@@ -15051,7 +15051,7 @@
       "id": "abt.WorkspaceOverviewCreateProjectCard.createProject"
     },
     {
-      "defaultMessage": "Étiquetez les éléments associés à un projet afin de pouvoir les suivre et les organiser plus facilement.",
+      "defaultMessage": "Marquez les éléments associés à un projet afin de pouvoir les suivre et les organiser plus facilement.",
       "id": "abt.WorkspaceOverviewCreateProjectCard.paragraph"
     }
   ],
@@ -15353,13 +15353,13 @@
   ],
   "apps/app-dealer-mc/src/dmc/components/EmptyInbox/EmptyInbox.jsx": [
     {
-      "defaultMessage": "Vous n'avez pas de messages ici !",
+      "defaultMessage": "Vous n'avez aucun message ici !",
       "id": "wm.ConversationHistory.noMessages"
     }
   ],
   "apps/app-dealer-mc/src/shared/copy/milestoneMessages.ts": [
     {
-      "defaultMessage": "Offre, mise en attente et expédition devis envoyé",
+      "defaultMessage": "Offre, conservation et expédition devis envoyé",
       "id": "dmc.DealerMessage.actionBundledOffer"
     },
     {
@@ -15657,7 +15657,7 @@
       "id": "dc.bulkRequestSuccessModal.hold.duplicate_request"
     },
     {
-      "defaultMessage": "Une demande de mise en attente ne peut pas être complétée dans le cadre d’une enquête générale à un vendeur.",
+      "defaultMessage": "Une demande de retenue ne peut pas être complétée dans le cadre d’une enquête générale à un vendeur.",
       "id": "dc.bulkRequestSuccessModal.hold.general_inquiry"
     },
     {
@@ -15673,7 +15673,7 @@
       "id": "dc.bulkRequestSuccessModal.hold.onhold_for_another_buyer"
     },
     {
-      "defaultMessage": "Une erreur s'est produite lors du traitement de votre demande de blocage. Veuillez réessayer plus tard ou contacter <a href=\"mailto:trade@1stdibs.com\">trade@1stdibs.com</a> pour obtenir de l'aide.",
+      "defaultMessage": "Une erreur s'est produite lors du traitement de votre demande de blocage. Veuillez réessayer plus tard ou contacter <a href=\"mailto:trade@1stdibs.com\">trade@1stdibs.com</a> pour obtenir de l’aide.",
       "id": "dc.bulkRequestSuccessModal.hold.system_error_hold"
     },
     {
@@ -15753,11 +15753,11 @@
       "id": "dc.bulkRequestSuccessModal.shipping.shipping_quote_received"
     },
     {
-      "defaultMessage": "Une erreur s'est produite lors du traitement de votre demande de devis d'expédition. Veuillez réessayer plus tard ou contacter <a href=\"mailto:trade@1stdibs.com\">trade@1stdibs.com</a> pour obtenir de l'aide.",
+      "defaultMessage": "Une erreur s'est produite lors du traitement de votre demande de devis d'expédition. Veuillez réessayer plus tard ou contacter <a href=\"mailto:trade@1stdibs.com\">trade@1stdibs.com</a> pour obtenir de l’aide.",
       "id": "dc.bulkRequestSuccessModal.shipping.system_error"
     },
     {
-      "defaultMessage": "Étant donné que cet article n’est pas disponible à l’achat, nous ne sommes pas en mesure de traiter votre demande de devis d’expédition pour le moment.",
+      "defaultMessage": "Cet article n’étant pas disponible à l’achat, nous ne sommes pas en mesure de traiter votre demande de devis d’expédition pour le moment.",
       "id": "dc.bulkRequestSuccessModal.shipping.unavailable_shipping"
     }
   ],
@@ -15797,7 +15797,7 @@
       "id": "dc.bulkRequestSuccessModal.transferOffer.onhold"
     },
     {
-      "defaultMessage": "Nous sommes dans l’incapacité d’effectuer un transfert pour le moment. Veuillez réessayer plus tard.",
+      "defaultMessage": "Nous ne sommes pas en mesure d’effectuer un transfert pour le moment. Veuillez réessayer plus tard.",
       "id": "dc.bulkRequestSuccessModal.transferOffer.system_error"
     },
     {
@@ -15831,7 +15831,7 @@
   ],
   "packages/dibs-buyer-deposit/src/messages/DepositContinueShopping.jsx": [
     {
-      "defaultMessage": "Découvrez plus de modèles contemporains",
+      "defaultMessage": "Achetez plus auprès de Contemporary Designs",
       "id": "dc.dibs-buyer-deposit.DepositContinueShopping"
     }
   ],
@@ -15843,7 +15843,7 @@
   ],
   "packages/dibs-buyer-deposit/src/messages/DepositFormBody.jsx": [
     {
-      "defaultMessage": "Notre nouvelle fonctionnalité vous permet de payer 50 % à l’avance et de payer le reste lorsque la production est terminée.\n\nAvant d’initier une demande de dépôt, vous devez parvenir à un accord avec le vendeur sur les personnalisations, le prix final et tous les détails d’expédition. Retournez-les ici pour fournir ces informations, et nous vous contacterons ensuite pour vérifier les détails et obtenir vos informations de paiement. Une fois que tout est confirmé, nous traiterons votre paiement d’acompte. Vous êtes responsable du paiement intégral de l’article et serez automatiquement facturé pour le deuxième paiement lorsque nous confirmerons que la production est terminée.\n\nVeuillez noter que les acomptes ne sont pas remboursables et les retours ne sont pas acceptés pour les articles personnalisés.",
+      "defaultMessage": "Notre nouvelle fonctionnalité vous permet de payer 50 % en avance et de payer le reste lorsque la production est terminée.\n\nAvant d’initier une demande de dépôt, vous devez parvenir à un accord avec le vendeur sur les personnalisations, le prix final et tous les détails d’expédition. Retournez-les ici pour fournir ces informations, et nous vous contacterons ensuite pour vérifier les détails et obtenir vos informations de paiement. Une fois que tout est confirmé, nous traiterons votre paiement d’acompte. Vous êtes responsable du paiement intégral de l’article et serez automatiquement facturé pour le deuxième paiement lorsque nous confirmerons que la production est terminée.\n\nVeuillez noter que les acomptes ne sont pas remboursables et les retours ne sont pas acceptés pour les articles personnalisés.",
       "id": "dc.dibs-buyer-deposit.DepositFormBody"
     }
   ],
@@ -15885,7 +15885,7 @@
   ],
   "packages/dibs-buyer-deposit/src/messages/DepositLinkMessage.jsx": [
     {
-      "defaultMessage": "Voir les détails",
+      "defaultMessage": "Afficher les détails",
       "id": "dc.dibs-buyer-deposit.DepositLinkMessage"
     }
   ],
@@ -16105,7 +16105,7 @@
       "id": "dbl.contactSellerModal.designerConnection.cta"
     },
     {
-      "defaultMessage": "Essayez notre service gratuit. Connexion du concepteur ! Répondez simplement à notre quiz et vous recevrez des recommandations soigneusement sélectionnées en fonction de votre style et de vos besoins.",
+      "defaultMessage": "Essayez notre service gratuit. Connexion du concepteur ! Répondez simplement à notre questionnaire et vous recevrez des recommandations soigneusement sélectionnées en fonction de votre style et de vos besoins.",
       "id": "dbl.contactSellerModal.designerConnection.description"
     },
     {
@@ -16137,11 +16137,11 @@
       "id": "dbl.ContactDealerModal.messageCenterMessageWithLink"
     },
     {
-      "defaultMessage": "Je ne suis pas un membre de l'échange.",
+      "defaultMessage": "Je ne suis pas membre de l'échange.",
       "id": "dbl.ContactDealerModal.notTradeLinkMessage"
     },
     {
-      "defaultMessage": "{secondaryType, select, favoriteDealer {Suivez pour recevoir des alertes hebdomadaires par e-mail avec les nouveautés de ce } tradeSignup {vendeur.Rejoindre notre programme commercial pour recevoir des prix nets et des avantages commerciaux } makeOffer {exclusifs.Vous pouvez négocier le prix de cet article. Faites une offre pour montrer au vendeur que vous êtes } linkTexting {sérieux.Grâce à notre application, vous recevrez des notifications lorsque les vendeurs répondront à vos messages. Saisissez votre numéro pour obtenir un lien pour le } other {télécharger.Veuillez continuer à profiter de votre expérience 1stDibs.}}",
+      "defaultMessage": "{secondaryType, select, favoriteDealer {Suivez pour recevoir des alertes hebdomadaires par e-mail avec les nouveautés de ce } tradeSignup {vendeur.Rejoignez notre programme commercial pour recevoir des prix nets et des avantages commerciaux } makeOffer {exclusifs.Vous pouvez négocier le prix de cet article. Faites une offre pour montrer au vendeur que vous êtes } linkTexting {sérieux.Grâce à notre application, vous recevrez des notifications lorsque les vendeurs répondront à vos messages. Saisissez votre numéro pour obtenir un lien pour le } other {télécharger.Veuillez continuer à profiter de votre expérience 1stDibs.}}",
       "id": "dbl.ContactDealerModal.secondaryBody"
     },
     {
@@ -16149,7 +16149,7 @@
       "id": "dbl.ContactDealerModal.secondaryButton"
     },
     {
-      "defaultMessage": "{secondaryType, select, favoriteDealer {Rester à } tradeSignup {jourInscrivez-vous au 1stDibs Trade } makeOffer {ProgramNe laissez pas ce document } linkTexting {s’échapperNotifications à } other {HandAll Done}}",
+      "defaultMessage": "{secondaryType, select, favoriteDealer {Restez à } tradeSignup {jourInscrivez-vous au 1stDibs Trade } makeOffer {ProgramNe laissez pas ce document } linkTexting {s’échapperNotifications à } other {HandAll Done}}",
       "id": "dbl.ContactDealerModal.secondaryHeader"
     }
   ],
@@ -16203,7 +16203,7 @@
       "id": "dbl.ContactDealerModal.requestImagesTitle"
     },
     {
-      "defaultMessage": "Je m'intéresse à cette pièce. Pouvez-vous s’il vous plaît confirmer le prix ?",
+      "defaultMessage": "Je m'intéresse à cette pièce. Pourriez-vous s’il vous plaît confirmer le prix ?",
       "id": "dbl.ContactDealerModal.requestPriceMessage"
     },
     {
@@ -16241,7 +16241,7 @@
   ],
   "packages/dibs-buyer-layout/src/HoldRequestModal/components/ErrorMessage.jsx": [
     {
-      "defaultMessage": "Échec de la demande de conservation",
+      "defaultMessage": "Échec de la demande de mise en attente",
       "id": "dbl.holdRequest.requestFailedTitle"
     },
     {
@@ -16335,7 +16335,7 @@
       "id": "dbl.MakeOffer.SuggestionDisplay.net"
     },
     {
-      "defaultMessage": "Les vendeurs sont plus susceptibles d’accepter des offres de {range} réduction du prix de {price} vente.",
+      "defaultMessage": "Les vendeurs sont plus susceptibles d’accepter des offres {range} de réduction du prix de {price} vente.",
       "id": "dbl.MakeOffer.SuggestionDisplay.sale"
     }
   ],
@@ -16417,7 +16417,7 @@
       "id": "dbl.makeOfferModal.priceMessages.priceDisplay"
     },
     {
-      "defaultMessage": "{priceType, select, NET {Prix } RETAIL {netsPrix de } WEEKLY_SALE {ventePrix de } other {ventePrix }}de vente",
+      "defaultMessage": "{priceType, select, NET {Prix } RETAIL {netsPrix de vente Prix } WEEKLY_SALE {de } other { }}ventePrix de vente",
       "id": "dbl.makeOfferModal.priceMessages.priceTypeLabel"
     },
     {
@@ -16467,15 +16467,15 @@
       "id": "dbl.TradeExpiringPromoContent.promoHeader"
     },
     {
-      "defaultMessage": "Ne passez pas à côté ! Profitez des retours gratuits et jusqu’à {maximumDiscount} de l’expédition de retour. De plus, bénéficiez de {daysOfProtection} jours supplémentaires pour signaler tout problème lié à un article.",
+      "defaultMessage": "Ne manquez pas l’occasion ! Profitez des retours gratuits et jusqu’à {maximumDiscount} de l’expédition de retour. De plus, bénéficiez de {daysOfProtection} jours supplémentaires pour signaler tout problème lié à un article.",
       "id": "dbl.TradeExpiringPromoContent.riskFreeDescription"
     },
     {
-      "defaultMessage": "{relative} Seulement laissé pour obtenir des retours gratuits et une protection étendue de l’acheteur",
+      "defaultMessage": "Uniquement {relative} laissé pour obtenir des retours gratuits et une protection étendue de l’acheteur",
       "id": "dbl.TradeExpiringPromoContent.riskFreeExpiration"
     },
     {
-      "defaultMessage": "Seulement {relative} laissé pour bénéficier de la livraison gratuite",
+      "defaultMessage": "Seulement {relative} laissé pour obtenir la livraison gratuite",
       "id": "dbl.TradeExpiringPromoContent.shippingExpiration"
     },
     {
@@ -16483,11 +16483,11 @@
       "id": "dbl.TradeExpiringPromoContent.termsAndConditionLink"
     },
     {
-      "defaultMessage": "Ne passez pas à côté ! Profitez de jusqu’à {maximumDiscount} de réduction sur l’expédition de votre prochaine commande de {minimumOrderValue} ou plus.",
+      "defaultMessage": "Ne manquez pas l’occasion ! Profitez de jusqu’à {maximumDiscount} de réduction sur l’expédition de votre prochaine commande de {minimumOrderValue} ou plus.",
       "id": "dbl.TradeExpiringPromoContent.tradeShipDescription"
     },
     {
-      "defaultMessage": "Ne passez pas à côté ! Profitez de jusqu’à {maximumDiscount} de réduction sur l’expédition de votre première commande de {minimumOrderValue} ou plus.",
+      "defaultMessage": "Ne manquez pas l’occasion ! Profitez de jusqu’à {maximumDiscount} de réduction sur l’expédition de votre première commande de {minimumOrderValue} ou plus.",
       "id": "dbl.TradeExpiringPromoContent.tradeWelcomeDescription"
     },
     {
@@ -16609,7 +16609,7 @@
       "id": "dbl.TradeInactiveFirmPromoModal.freeReturnsHeader"
     },
     {
-      "defaultMessage": "Profitez de la livraison gratuite pour une commande de ou {maximumDiscount} {minimumOrderValue} plus de personnes avec le code {codeText}.",
+      "defaultMessage": "Profitez de la livraison gratuite pour une {maximumDiscount} commande de ou plus de {minimumOrderValue} personnes avec le code {codeText}.",
       "id": "dbl.TradeInactiveFirmPromoModal.freeShippingDescription"
     },
     {
@@ -16697,11 +16697,11 @@
       "id": "dbl.TradeRewardsLevelUpModal.header"
     },
     {
-      "defaultMessage": "Félicitations ! Jetez un coup d’œil à quelques-uns des grands avantages qui vous attendent.",
+      "defaultMessage": "Félicitations ! Jetez un coup d’œil à certains des grands avantages qui vous attendent.",
       "id": "dbl.TradeRewardsLevelUpModal.subheader"
     },
     {
-      "defaultMessage": "Félicitations ! Jetez un coup d’œil à quelques-uns des grands avantages qui vous attendent au niveau supérieur.",
+      "defaultMessage": "Félicitations ! Jetez un coup d’œil à quelques-uns des avantages exceptionnels qui vous attendent au niveau supérieur.",
       "id": "dbl.TradeRewardsLevelUpModal.subheaderPlatinum"
     }
   ],
@@ -16761,7 +16761,7 @@
       "id": "dbl.TradeVerifyFirmReminderToastInitialStep.header"
     },
     {
-      "defaultMessage": "C'est facile ! Fournissez simplement un document de qualification pour compléter votre demande d’ouverture de poste.",
+      "defaultMessage": "C'est facile ! Fournissez simplement un document de qualification pour compléter votre demande d’échange.",
       "id": "dbl.TradeVerifyFirmReminderToastInitialStep.info"
     },
     {
@@ -16849,7 +16849,7 @@
   ],
   "packages/dibs-buyer-layout/src/authModal/authentication/authCopy.jsx": [
     {
-      "defaultMessage": "J’accepte les et 1stDibs{privacyPolicyLink}{userAgreementLink}, et je comprends que le partage des coordonnées pour acheter en dehors de 1stDibs est interdit.",
+      "defaultMessage": "J’accepte les {privacyPolicyLink} et 1stDibs{userAgreementLink}, et je comprends qu’il est interdit de partager des coordonnées pour acheter en dehors de 1stDibs.",
       "id": "dbl.authmodal.auth.acceptPolicyContactDealer"
     },
     {
@@ -16945,7 +16945,7 @@
       "id": "dbl.authmodal.auth.errors.googleLoginOnly"
     },
     {
-      "defaultMessage": "La combinaison e-mail/mot de passe ne correspond pas à nos enregistrements. Les mots de passe sont sensibles à la casse.",
+      "defaultMessage": "La combinaison e-mail/mot de passe ne correspond pas à nos dossiers. Les mots de passe sont sensibles à la casse.",
       "id": "dbl.authmodal.auth.errors.invalidLogin"
     },
     {
@@ -16953,7 +16953,7 @@
       "id": "dbl.authmodal.auth.errors.invalidResetToken"
     },
     {
-      "defaultMessage": "L’expérience commerciale 1stDibs n’est pas encore prise en charge sur ce domaine. Veuillez vous connecter à {usHomepage} ou . {gbHomepage}",
+      "defaultMessage": "L’expérience commerciale 1stDibs n’est pas encore prise en charge sur ce domaine. Veuillez vous connecter à {usHomepage} ou {gbHomepage}.",
       "id": "dbl.authmodal.auth.errors.nonSupportedTradelogin"
     },
     {
@@ -17033,7 +17033,7 @@
       "id": "dbl.authmodal.login.accountRegistration"
     },
     {
-      "defaultMessage": "J'ai lu et j'accepte 1stDibs' {userAgreementLink} et {privacyPolicyLink}.",
+      "defaultMessage": "J'ai lu et j'accepte les documents 1stDibs' {userAgreementLink} et {privacyPolicyLink}.",
       "id": "dbl.authmodal.registration.acceptPolicy"
     }
   ],
@@ -17127,7 +17127,7 @@
       "id": "dbl.authmodal.login.saveItem.loginHeader"
     },
     {
-      "defaultMessage": "Connectez-vous pour enregistrer cet élément dans un dossier",
+      "defaultMessage": "Se connecter pour enregistrer cet élément dans un dossier",
       "id": "dbl.authmodal.login.saveItem.loginHeaderFolder"
     },
     {
@@ -17161,7 +17161,7 @@
   ],
   "packages/dibs-buyer-layout/src/authModal/authentication/login/getEmailTokenLoginConfig.jsx": [
     {
-      "defaultMessage": "Se connecter pour continuer",
+      "defaultMessage": "Connectez-vous pour continuer",
       "id": "dbl.authmodal.login.emailTokenLogin.header"
     },
     {
@@ -17187,7 +17187,7 @@
       "id": "dbl.authmodal.login.orderActionLogin.cancelOrder.header"
     },
     {
-      "defaultMessage": "Se connecter pour terminer le paiement",
+      "defaultMessage": "Connectez-vous pour terminer le paiement",
       "id": "dbl.authmodal.login.orderActionLogin.completePurchase.header"
     },
     {
@@ -17213,7 +17213,7 @@
   ],
   "packages/dibs-buyer-layout/src/authModal/authentication/registration/RegistrationContainer.jsx": [
     {
-      "defaultMessage": "Découvrez des choses magnifiques",
+      "defaultMessage": "Découvrez de belles choses",
       "id": "dbl.authmodal.registration.beautifulThingsABTestHeader"
     },
     {
@@ -17229,7 +17229,7 @@
       "id": "dbl.authmodal.registration.designerConnectionModal.header"
     },
     {
-      "defaultMessage": "Continuer jusqu'à l'enquête",
+      "defaultMessage": "Continuer vers l'enquête",
       "id": "dbl.authmodal.registration.discoverFeed.completeSignup"
     },
     {
@@ -17277,7 +17277,7 @@
       "id": "dbl.authmodal.registration.emailOnly.continue"
     },
     {
-      "defaultMessage": "Votre compte a été créé. Terminez l'inscription en créant un mot de passe pour obtenir un accès complet aux 1stDibs et recevoir des mises à jour personnalisées par e-mail sur ce que vous suivez.",
+      "defaultMessage": "Votre compte a été créé. Terminez l'inscription en créant un mot de passe pour obtenir un accès complet à 1stDibs et recevoir des mises à jour personnalisées par e-mail sur ce que vous suivez.",
       "id": "dbl.authmodal.registration.emailOnly.follow.registrationCompletion"
     },
     {
@@ -17289,7 +17289,7 @@
       "id": "dbl.authmodal.registration.emailOnly.registrationDescription"
     },
     {
-      "defaultMessage": "Votre compte a été créé. Terminez l'inscription en créant un mot de passe pour obtenir un accès complet aux 1stDibs et recevoir des mises à jour personnalisées par e-mail.",
+      "defaultMessage": "Votre compte a été créé. Terminez l'inscription en créant un mot de passe pour obtenir un accès complet à 1stDibs et obtenir des mises à jour personnalisées par e-mail.",
       "id": "dbl.authmodal.registration.emailOnly.subtext"
     },
     {
@@ -17309,7 +17309,7 @@
       "id": "dbl.authmodal.registration.follow.header"
     },
     {
-      "defaultMessage": "Nous vous enverrons un e-mail lorsqu’il y aura des nouveautés pertinentes pour le vendeur, le créateur, la catégorie ou la recherche que vous suivez.",
+      "defaultMessage": "Nous vous enverrons un e-mail lorsqu’il y aura de nouvelles arrivées pertinentes pour le vendeur, le créateur, la catégorie ou la recherche que vous suivez.",
       "id": "dbl.authmodal.registration.follow.registrationDescription"
     },
     {
@@ -17521,7 +17521,7 @@
       "id": "dbl.authmodal.resetPassword.verifyEmail.submit"
     },
     {
-      "defaultMessage": "La création d'un mot de passe est la dernière étape avant que vous puissiez {dynamicAction}. Cela vous aidera également à mieux protéger votre compte. Une fois qu’il sera créé, vous pourrez reprendre là où vous l’avez laissé.",
+      "defaultMessage": "La création d'un mot de passe est la dernière étape avant que vous puissiez {dynamicAction}. Cela vous aidera également à mieux protéger votre compte. Une fois qu’il est créé, vous pourrez reprendre là où vous l’avez laissé.",
       "id": "dbl.authmodal.resetPassword.verifyEmailSubheader"
     },
     {
@@ -17783,7 +17783,7 @@
       "id": "dbl.authmodal.error.loginsystemfailure"
     },
     {
-      "defaultMessage": "La combinaison e-mail/mot de passe ne correspond pas à nos enregistrements. Les mots de passe sont sensibles à la casse.",
+      "defaultMessage": "La combinaison e-mail/mot de passe ne correspond pas à nos dossiers. Les mots de passe sont sensibles à la casse.",
       "id": "dbl.authmodal.error.loginunauthorized"
     },
     {
@@ -17979,7 +17979,7 @@
       "id": "dbl.authmodal.userTypeLabels.dealerRegistrationModalABTest"
     },
     {
-      "defaultMessage": "Je suis architecte ou décorateur d’intérieur et j’effectue des achats pour un client",
+      "defaultMessage": "Je suis architecte ou décorateur d'intérieur et j'effectue des achats pour un client",
       "id": "dbl.authmodal.userTypeLabels.trade"
     },
     {
@@ -18029,7 +18029,7 @@
       "id": "dbl.altVerification.noTradeDocs"
     },
     {
-      "defaultMessage": "Veuillez envoyer la documentation par e-mail à {emailLink} ou nous l’envoyer par fax au 646-417-7814.",
+      "defaultMessage": "Veuillez envoyer la documentation par e-mail {emailLink} ou nous l’envoyer par fax au 646-417-7814.",
       "id": "dbl.altVerification.provideTradeDocsInstructions"
     },
     {
@@ -18153,7 +18153,7 @@
       "id": "dbl.authmodal.submit"
     },
     {
-      "defaultMessage": "Gardez les informations de votre entreprise à jour afin que nous puissions vous fournir les services et avantages appropriés.",
+      "defaultMessage": "Tenez les informations de votre entreprise à jour afin que nous puissions vous fournir les services et avantages appropriés.",
       "id": "dbl.authmodal.updateTradeFirmDescription"
     }
   ],
@@ -18499,7 +18499,7 @@
   ],
   "packages/dibs-buyer-layout/src/components/CategoryTiles/CategoryTiles.jsx": [
     {
-      "defaultMessage": "{type, select, Furniture { } Art {MobilierFin } Jewelry {Art et } Fashion {montresFashion} Eero {Eero } Roy {SaarinenRoy } Cartier {LichtensteinCartier} other {Hermès}}",
+      "defaultMessage": "{type, select, Furniture { } Art {MobilierFin Art } Jewelry {et } Fashion {montresFashion} Eero {Eero } Roy {SaarinenRoy } Cartier {LichtensteinCartier} other {Hermès}}",
       "id": "dbl.CategoryTiles.main_title"
     },
     {
@@ -18647,7 +18647,7 @@
       "id": "dbl.holdRequest.noneSelectedPlaceholder"
     },
     {
-      "defaultMessage": "{day, plural, =2 {Deux } =3 {joursTrois } =4 {joursTrois joursQuatre } =5 {joursQuatre-cinq } =6 {joursSix } =7 {joursSept } one {joursAutre} other {Autre}}",
+      "defaultMessage": "{day, plural, =2 {Deux } =3 {joursTrois } =4 {joursTrois } =5 {joursQuatre joursQuatre-cinq } =6 {joursSix } =7 {joursSept } one {joursAutre} other {Autre}}",
       "id": "dbl.holdRequest.selectDays"
     },
     {
@@ -18755,7 +18755,7 @@
       "id": "dbl.Header.FavNotificationsEmpty.favorites_text"
     },
     {
-      "defaultMessage": "Ne jamais manquer",
+      "defaultMessage": "Ne manquez jamais",
       "id": "dbl.Header.FavNotificationsEmpty.following_header"
     },
     {
@@ -18813,7 +18813,7 @@
   ],
   "packages/dibs-buyer-layout/src/components/FavNotifications/FavNotificationsTileHeader.jsx": [
     {
-      "defaultMessage": "Sauvegardé récemment",
+      "defaultMessage": "Récemment sauvegardé",
       "id": "dbl.Header.FavNotificationsTileHeader.favorites_header"
     },
     {
@@ -18857,11 +18857,11 @@
   ],
   "packages/dibs-buyer-layout/src/components/Footer/FooterSubscribe/index.jsx": [
     {
-      "defaultMessage": "S'abonner",
+      "defaultMessage": "S’abonner",
       "id": "dbl.footer.FooterSubscribe.button"
     },
     {
-      "defaultMessage": "Merci pour votre abonnement !",
+      "defaultMessage": "Merci de vous être abonné !",
       "id": "dbl.footer.FooterSubscribe.confirmation"
     },
     {
@@ -19107,7 +19107,7 @@
   ],
   "packages/dibs-buyer-layout/src/components/Notifications/NotificationsPromoCode.jsx": [
     {
-      "defaultMessage": "{isShippingPromo, select, true {Expédition avec {amount} remise supplémentaire avec code : {styledCode}} other {Extra {amount} avec code : {styledCode}}}",
+      "defaultMessage": "{isShippingPromo, select, true {Expédition {amount} avec remise supplémentaire avec code : {styledCode}} other {Extra {amount} avec code : {styledCode}}}",
       "id": "dbl.NotificationsPromoCode.description"
     },
     {
@@ -19125,7 +19125,7 @@
   ],
   "packages/dibs-buyer-layout/src/components/Notifications/PendingFeedback.jsx": [
     {
-      "defaultMessage": "Aidez 1stDibs et le vendeur à s’améliorer en laissant un commentaire",
+      "defaultMessage": "Aidez 1stDibs et le vendeur à s’améliorer en laissant une évaluation",
       "id": "dbl.Header.Notifications.pending_feedback_message"
     },
     {
@@ -19219,7 +19219,7 @@
   ],
   "packages/dibs-buyer-layout/src/components/SearchBar/SearchBarOverlay.jsx": [
     {
-      "defaultMessage": "Consulté récemment",
+      "defaultMessage": "Récemment consulté",
       "id": "dbl.header.searchBar.recentlyViewed"
     }
   ],
@@ -19301,7 +19301,7 @@
   ],
   "packages/dibs-buyer-layout/src/notificationQueue/globalNotifications/tradeEnrollmentAndStatusUpdate/AutoEnrolledFirmModal.tsx": [
     {
-      "defaultMessage": "Votre compte commercial vient d'avoir un surclassement",
+      "defaultMessage": "Votre compte commercial vient d'obtenir un surclassement",
       "id": "dbl.TradeEnrollmentAndStatusUpdateModal.autoEnrolledBarHeader"
     },
     {
@@ -19495,7 +19495,7 @@
       "id": "priceMessages.onHoldLabel"
     },
     {
-      "defaultMessage": "{textPriceType, select, sold { } unavailable {VenduNon } pur {disponiblePrix sur } other {demandeVend}}u",
+      "defaultMessage": "{textPriceType, select, sold {Vendu } unavailable {non } pur {disponiblePrix sur } other {demandeVend}}u",
       "id": "priceMessages.textPriceValue"
     }
   ],
@@ -19721,7 +19721,7 @@
       "id": "common.DisplayPromoCode.aboveMaximum"
     },
     {
-      "defaultMessage": "{extraOff}{discount} avec {promoType}code {code}{priceDisplay}",
+      "defaultMessage": "{extraOff}{discount} {promoType}avec code {code}{priceDisplay}",
       "id": "common.DisplayPromoCode.activePromotion.pdp_cart"
     },
     {
@@ -19755,7 +19755,7 @@
       "id": "dc.DynamicQuantitySelect.errorNonNumericValue"
     },
     {
-      "defaultMessage": "Disponible uniquement {availableQuantity} ",
+      "defaultMessage": "{availableQuantity} Disponible uniquement",
       "id": "dc.DynamicQuantitySelect.errorQuantityTooHigh"
     },
     {
@@ -19815,7 +19815,7 @@
   ],
   "packages/dibs-item-repost-modals/src/modals/RepostOptionsModal/index.jsx": [
     {
-      "defaultMessage": "{amount} /liste",
+      "defaultMessage": "{amount} / listing",
       "id": "dc.dibs-item-repost-modals.PricePerLinting"
     }
   ],
@@ -19859,7 +19859,7 @@
       "id": "dc.ProjectForms.CreateProject.name"
     },
     {
-      "defaultMessage": "Vous aleady avez un projet appelé \"{projectName}\"",
+      "defaultMessage": "Vous avez un projet appelé \"{projectName}leady\"",
       "id": "dc.ProjectForms.CreateProject.nameInputError"
     },
     {
@@ -19867,7 +19867,7 @@
       "id": "dc.ProjectForms.CreateProject.namePlaceholder"
     },
     {
-      "defaultMessage": "Avez-vous besoin d’une assistance d’approvisionnement 1stDibs ?",
+      "defaultMessage": "Avez-vous besoin d'une assistance d'approvisionnement 1stDibs ?",
       "id": "dc.ProjectForms.CreateProject.soucingAssistance"
     },
     {
@@ -20003,7 +20003,7 @@
       "id": "dc.ProjectForms.UpdateName.name"
     },
     {
-      "defaultMessage": "Vous aleady avez un projet appelé \"{projectName}\"",
+      "defaultMessage": "Vous avez un projet appelé \"{projectName}leady\"",
       "id": "dc.ProjectForms.UpdateName.nameInputError"
     },
     {
@@ -20085,7 +20085,7 @@
   ],
   "packages/dibs-request-shipping-modal/src/ShippingDetails/shippingMessages.jsx": [
     {
-      "defaultMessage": "Si vous avez besoin d’une expédition accélérée ou d’une méthode différente, contactez le vendeur.",
+      "defaultMessage": "Si vous avez besoin d'une expédition accélérée ou d'une méthode différente, contactez le vendeur.",
       "id": "requestShippingModal.blockRequest"
     },
     {
@@ -20093,7 +20093,7 @@
       "id": "requestShippingModal.courier"
     },
     {
-      "defaultMessage": "Vous pouvez également sélectionner des options pour récupérer l’article en personne ou organiser votre propre expédition au moment du paiement.",
+      "defaultMessage": "Ou, sélectionnez des options pour récupérer l’article en personne ou organisez votre propre expédition au moment du paiement.",
       "id": "requestShippingModal.customer_arranged"
     },
     {
@@ -20531,7 +20531,7 @@
       "id": "shareModal.header"
     },
     {
-      "defaultMessage": "{type, select, ITEMS {Partager les } FOLDERS {élémentsPartager } INVOICE {dossierPartager} DESIGN_PROFILE {Envoyer} other {}}envoi",
+      "defaultMessage": "{type, select, ITEMS {Partager les } FOLDERS {élémentsPartager } INVOICE {dossierPartager} DESIGN_PROFILE {Envoyer} other {envoi}}",
       "id": "shareModal.submit"
     }
   ],
@@ -21035,11 +21035,11 @@
       "id": "dc.TradeLoyaltyEnrollment.EnrollmentPrompt.claimRewardTitle"
     },
     {
-      "defaultMessage": "Gagnez un point pour chaque dollar dépensé en mobilier et en art.",
+      "defaultMessage": "Gagnez un point pour chaque dollar dépensé pour le mobilier et l’art.",
       "id": "dc.TradeLoyaltyEnrollment.EnrollmentPrompt.earnPointsHowTo"
     },
     {
-      "defaultMessage": "Comment cela fonctionne",
+      "defaultMessage": "Comment ça fonctionne",
       "id": "dc.TradeLoyaltyEnrollment.EnrollmentPrompt.enrollInstructions"
     },
     {
@@ -21083,11 +21083,11 @@
       "id": "dc.OnApproval.OnApprovalForm.details"
     },
     {
-      "defaultMessage": "Pour les demandes On Approval, veuillez écrire votre message ici.",
+      "defaultMessage": "Pour les demandes d’approbation, veuillez écrire votre message ici.",
       "id": "dc.OnApproval.OnApprovalForm.detailsPlaceholder"
     },
     {
-      "defaultMessage": "Quand saurez-vous si vous allez la conserver ou la retourner ?",
+      "defaultMessage": "Quand saurez-vous si vous allez le conserver ou le retourner ?",
       "id": "dc.OnApproval.OnApprovalForm.duration"
     },
     {
@@ -21133,7 +21133,7 @@
   ],
   "packages/dibs-trade-on-approval/src/components/OnApprovalInitialStep.jsx": [
     {
-      "defaultMessage": "Demande de début",
+      "defaultMessage": "Demande de démarrage",
       "id": "dc.OnApproval.OnApprovalInitialStep.cta"
     },
     {
@@ -21153,7 +21153,7 @@
       "id": "dc.OnApproval.OnApprovalInitialStep.second_step_title"
     },
     {
-      "defaultMessage": "Comment cela fonctionne",
+      "defaultMessage": "Comment ça fonctionne",
       "id": "dc.OnApproval.OnApprovalInitialStep.subheader"
     },
     {
@@ -21193,7 +21193,7 @@
       "id": "dc.OnApproval.OnApprovalSuccessContent.second_step_title"
     },
     {
-      "defaultMessage": "Nous coordonnons avec le vendeur pour l’approbation et les détails de l’accord. Vous devriez nous écouter bientôt.",
+      "defaultMessage": "Nous coordonnons avec le vendeur les détails de l’approbation et de l’accord. Vous devriez nous écouter bientôt.",
       "id": "dc.OnApproval.OnApprovalSuccessContent.success_step_description"
     },
     {
@@ -21211,7 +21211,7 @@
   ],
   "packages/dibs-trade-on-approval/src/helpers/getDurationOptions.js": [
     {
-      "defaultMessage": "{day, plural, =3 {{day,number} jours après réception élément } =5 {{day,number} jours après réception élément } =7 {{day,number} jours après réception élément après réception élément } one {Autre } other {Autre}}",
+      "defaultMessage": "{day, plural, =3 {{day,number} jours après réception élément } =5 {{day,number} jours après réception élément } =7 {{day,number} jours après réception élément jours après réception élément } one {Autre } other {Autre}}",
       "id": "dc.OnApproval.OnApprovalForm.durationOptions"
     }
   ],
@@ -21261,7 +21261,7 @@
       "id": "dtc.TradeProcurement.installDate.placeholder"
     },
     {
-      "defaultMessage": "par ex. Gant blanc, Fret de porte d’entrée, Colis",
+      "defaultMessage": "par ex., gant blanc, fret de porte d’entrée, colis",
       "id": "dtc.TradeProcurement.shippingMethod.placeholder"
     },
     {
@@ -21335,7 +21335,7 @@
       "id": "dtc.TradeProcurement.headerSkipHoldRequest.SUCCESS.title"
     },
     {
-      "defaultMessage": "Bonjour, c’est 1stDibs qui vous contacte au nom d’une grande société de design intéressée par ce document dans le cadre d’un projet. Pouvez-vous le mettre en attente pendant que l’entreprise reçoit les approbations nécessaires ?",
+      "defaultMessage": "Bonjour, c’est 1stDibs qui vous contacte au nom d’une grande entreprise de design intéressée par ce document dans le cadre d’un projet. Pouvez-vous le mettre en attente pendant que l’entreprise reçoit les approbations nécessaires ?",
       "id": "dtc.TradeProcurement.holdRequestMessage"
     },
     {
@@ -21361,7 +21361,7 @@
       "id": "dc.dibsTradeRewardsProgress.PointsEarnedMessage.pointsTowardsCurrentStatus"
     },
     {
-      "defaultMessage": "Cela vous permettra de gagner des {pointsEarned} points {quantityDisplay}pour atteindre {nextStatus} le statut",
+      "defaultMessage": "Cela vous permettra de gagner des {pointsEarned} points pour {quantityDisplay}atteindre le {nextStatus} statut",
       "id": "dc.dibsTradeRewardsProgress.PointsEarnedMessage.pointsTowardsNewStatus"
     },
     {
@@ -21413,11 +21413,11 @@
       "id": "dc.tradeSourcing.futureProjectSourcingFormSuccess.antiqueAll"
     },
     {
-      "defaultMessage": "Découvrez l'éclairage antique",
+      "defaultMessage": "Acheter l'éclairage antique",
       "id": "dc.tradeSourcing.futureProjectSourcingFormSuccess.antiqueLighting"
     },
     {
-      "defaultMessage": "Acheter des sièges antiques",
+      "defaultMessage": "Parcourir les sièges antiques",
       "id": "dc.tradeSourcing.futureProjectSourcingFormSuccess.antiqueSeating"
     },
     {
@@ -21581,7 +21581,7 @@
       "id": "dc.tradeSourcing.sourcingAssistanceRequestModalContent.detailsPlaceholder"
     },
     {
-      "defaultMessage": "Veuillez nous indiquer tous les détails connus concernant la/les pièce(s) que vous recherchez (par ex. budget, type de pièce, dimensions, style, matériau, couleur, designers suggérés, délai, etc.).",
+      "defaultMessage": "Veuillez nous indiquer tous les détails connus concernant la/les pièce(s) que vous recherchez (par ex. budget, type de pièce, dimensions, style, matériau, couleur, suggestions de concepteurs, délai, etc.).",
       "id": "dc.tradeSourcing.sourcingAssistanceRequestModalContent.promptText"
     },
     {
@@ -21681,7 +21681,7 @@
   ],
   "packages/dibs-trade-sourcing/src/components/SourcingForm/sourcingRequestCompleteCopy.jsx": [
     {
-      "defaultMessage": "Des questions ? Contacter nos spécialistes commerciaux :",
+      "defaultMessage": "Des questions ? Contactez nos spécialistes commerciaux :",
       "id": "dc.tradeSourcing.sourcingForm.sourcingRequestComplete.contactHeader"
     },
     {
@@ -21859,7 +21859,7 @@
       "id": "dc.dibs-transfer-offer.SelectUser.backLabel"
     },
     {
-      "defaultMessage": "Cet article et tous les détails de l’offre personnalisée seront remis à votre collègue pour qu’il effectue l’achat. Vous n’aurez plus accès aux offres personnalisées que vous avez reçues sur cet article.",
+      "defaultMessage": "Cet article et tous les détails de l’offre personnalisée seront remis à votre collègue pour qu’il termine l’achat. Vous n’aurez plus accès aux offres personnalisées que vous avez reçues sur cet article.",
       "id": "dc.dibs-transfer-offer.SelectUser.description"
     },
     {
@@ -21929,7 +21929,7 @@
       "id": "dc.ContactTradeRep.Form.yourAccountExec"
     },
     {
-      "defaultMessage": "Dites-leur comment ils peuvent les aider !",
+      "defaultMessage": "Dites-leur comment ils peuvent aider !",
       "id": "dc.ContactTradeRep.Form.yourRepCta"
     }
   ],
@@ -21979,7 +21979,7 @@
       "id": "dc.ContactVipRepModalContent.contactHeader"
     },
     {
-      "defaultMessage": "{hasAssignedRep, select, true {Que ce soit pour vous aider à trouver un article spécifique, négocier avec les vendeurs en votre nom, vous guider à travers le processus d’achat ou résoudre vos demandes d’expédition, je suis là pour vous } false {aider.Qu’il s’agisse de vous aider à trouver un article spécifique, de négocier avec les vendeurs en votre nom, de vous guider à travers le processus d’achat ou de résoudre vos demandes d’expédition, nous sommes là pour vous aider.}}",
+      "defaultMessage": "{hasAssignedRep, select, true {Que ce soit pour vous aider à trouver une pièce spécifique, négocier avec les vendeurs en votre nom, vous guider à travers le processus d’achat ou résoudre vos demandes d’expédition, je suis là pour vous } false {aider.Qu’il s’agisse de vous aider à trouver une pièce spécifique, de négocier avec les vendeurs en votre nom, de vous guider à travers le processus d’achat ou de résoudre vos demandes d’expédition, nous sommes là pour vous aider.}}",
       "id": "dc.ContactVipRepModalContent.contactMessage"
     },
     {
@@ -22033,7 +22033,7 @@
       "id": "dc.WorkspaceGalleryAppointmentModal.Form.comments"
     },
     {
-      "defaultMessage": "Bonjour, je souhaiterais prendre un rendez-vous pour voir cet article à la Galerie.",
+      "defaultMessage": "Bonjour, je voudrais planifier un rendez-vous pour voir cet élément à la Galerie.",
       "id": "dc.WorkspaceGalleryAppointmentModal.Form.initialMessage"
     },
     {
@@ -22077,15 +22077,15 @@
       "id": "dc.WorkspaceNegotiationHelp.Form.submit"
     },
     {
-      "defaultMessage": "Votre chargé de compte peut vous aider à négocier avec le vendeur en votre nom ou à évaluer la valeur de l’article.",
+      "defaultMessage": "Votre chargé de compte peut vous aider à négocier avec le vendeur en votre nom ou à évaluer la valeur de l'article.",
       "id": "dc.WorkspaceNegotiationHelp.Form.withAEDescription"
     },
     {
-      "defaultMessage": "Bonjour, m’aideriez-vous à négocier le prix de cet article ? J’aimerais envoyer une offre d’ {currencySymbol}",
+      "defaultMessage": "Bonjour, m’aideriez-vous à négocier le prix de cet article ? J’aimerais envoyer une offre de {currencySymbol}",
       "id": "dc.WorkspaceNegotiationHelpModal.WorkspaceNegotiationHelpHelpForm.thankYouNoTradeRep"
     },
     {
-      "defaultMessage": "Bonjour {tradeRep}, m'aideriez-vous à négocier le prix de cet article ? J'aimerais envoyer une offre d' {currencySymbol}",
+      "defaultMessage": "Bonjour {tradeRep}, m'aideriez-vous à négocier le prix de cet article ? J’aimerais envoyer une offre de {currencySymbol}",
       "id": "dc.WorkspaceNegotiationHelpModal.WorkspaceNegotiationHelpHelpForm.thankYouWithTradeRep"
     }
   ],
@@ -22119,7 +22119,7 @@
   ],
   "packages/dibs-workspace-intro-modal/src/WorkspaceRequestConsultationModal/RequestConsultationForm.jsx": [
     {
-      "defaultMessage": "L’équipe 1stDibs Trade est là pour vous aider à maximiser vos avantages, comme être présenté dans un éditorial et communiquer avec de nouveaux clients. Demandez une consultation rapide de 10 minutes pour en savoir plus sur ce que vous avez déjà gagné et sur ce qui est en magasin pour vous.",
+      "defaultMessage": "L’équipe 1stDibs Trade est là pour vous aider à maximiser vos avantages, comme la publication d’articles éditoriaux et la connexion avec de nouveaux clients. Demandez une consultation rapide de 10 minutes pour en savoir plus sur ce que vous avez déjà gagné et sur ce qui est en magasin pour vous.",
       "id": "dc.WorkspaceRequestConsultation.Form.description"
     }
   ],
@@ -22157,7 +22157,7 @@
   ],
   "packages/dibs-workspace-intro-modal/src/WorkspaceRequestDemoModal/Form.jsx": [
     {
-      "defaultMessage": "Sur quoi aimeriez-vous en apprendre plus ? Sélectionnez toutes les réponses qui s’appliquent.",
+      "defaultMessage": "À propos de quoi aimeriez-vous en savoir plus ? Sélectionnez toutes les réponses qui s'appliquent.",
       "id": "dc.WorkspaceRequestDemo.Form.checkbox_group_label"
     },
     {
