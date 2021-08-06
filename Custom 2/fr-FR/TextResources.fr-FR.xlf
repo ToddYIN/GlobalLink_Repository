@@ -3,7 +3,7 @@
 	<file datatype="xml" original="PresentationToolkitTexts.xml" source-language="en-US" target-language="fr-FR">
 		<body>
 			<trans-unit id="Username" translate="yes">
-				<source>Username</source><target>Nom d'utilisateur</target>
+				<source>Username UPDATE 08062021</source><target>Nom d'utilisateur UPDATE 08062021</target>
 			</trans-unit>
 			<trans-unit id="Password" translate="yes">
 				<source>Password</source><target>Mot de passe</target></trans-unit>
