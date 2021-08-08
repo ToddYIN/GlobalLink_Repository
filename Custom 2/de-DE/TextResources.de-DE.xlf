@@ -3,7 +3,7 @@
 	<file datatype="xml" original="PresentationToolkitTexts.xml" source-language="en-US" target-language="de-DE">
 		<body>
 			<trans-unit id="Username" translate="yes">
-				<source>Username UPDATE 08062021</source><target>Benutzername UPDATE 08062021</target>
+				<source>Username UPDATE 08072021</source><target>Benutzername UPDATE 08072021</target>
 			</trans-unit>
 			<trans-unit id="Password" translate="yes">
 				<source>Password</source><target>Kennwort</target></trans-unit>
@@ -18,7 +18,7 @@
 				<source>Log on</source><target>Anmelden</target>
 			</trans-unit>
 			<trans-unit id="WindowsAuthentication" translate="yes">
-				<source>Use Windows Authentication</source><target>Windows Authentifizierung verwenden</target>
+				<source>Use Windows Authentication</source><target>Verwenden Sie die Windows Authentifizierung.</target>
 			</trans-unit>
 			<trans-unit id="Unauthorized" translate="yes">
 				<source>You do not have permission to view the page.</source><target>Sie sind nicht berechtigt, die Seite anzuzeigen.</target>
