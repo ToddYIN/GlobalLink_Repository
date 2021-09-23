@@ -68,7 +68,7 @@
     },
     "foundation.appsettings.account.Button":    {
         "account":'Konto',
-        "areYouSureLogout":'Sind Sie sicher, dass Sie sich abmelden m\u00F6chten?',
+        "areYouSureLogout":'Sind Sie sicher, dass Sie sich abmelden m\u00F6chten? ',
         "confirmationTxt":'Best\u00E4tigung',
         "logoutTxt":'Abmelden',
         "pleaseWait":'Bitte warten Sie...',
@@ -77,7 +77,7 @@
         "warning":'Warnung'
     },
     "foundation.appsettings.account.Impersonate":    {
-        "impersonate":'Sich ausgeben',
+        "impersonate":'Sich verk\u00F6rpern',
         "impersonateQuestionPart1":'Sie sind im Begriff, sich als der folgende Benutzer auszugeben:',
         "impersonateQuestionPart2":'',
         "impersonateQuestionPart3":'Sind Sie sicher, dass Sie fortfahren m\u00F6chten?',
