@@ -1,6 +1,6 @@
 {
     "foundation.actions.admin.projects.EnableProjectAction":    {
-        "confirmationMsg":'DEMO You are about to disable the project. This will potentially impact all users, are you sure you want to continue?',
+        "confirmationMsg":'UPDATE 10142021 You are about to disable the project. This will potentially impact all users, are you sure you want to continue?',
         "noBtnText":'Cancel',
         "subTitle":'Project disabled',
         "yesBtnText":'Continue'
@@ -68,10 +68,10 @@
     },
     "foundation.appsettings.account.Button":    {
         "account":'Konto',
-        "areYouSureLogout":'Sind Sie sicher, dass Sie sich abmelden m\u00F6chten? ',
+        "areYouSureLogout":'Sind Sie sicher, dass Sie sich abmelden m\u00F6chten?',
         "confirmationTxt":'Best\u00E4tigung',
         "logoutTxt":'Abmelden',
-        "pleaseWait":'Bitte warten Sie...',
+        "pleaseWait":'Bitte warten...',
         "preferencesTxt":'Einstellungen',
         "switchBack":'Zur\u00FCck wechseln',
         "warning":'Warnung'
@@ -98,14 +98,14 @@
         "customColorTitle":'Ma\u00DFgeschneidert'
     },
     "foundation.defaultdialog.Abstract":    {
-        "pleaseWait":'Bitte warten Sie...'
+        "pleaseWait":'Bitte warten...'
     },
     "foundation.defaultdialog.TabWindow":    {
         "apply":'Anwenden',
         "cancel":'Abbrechen',
         "invalidMark":'*',
         "ok":'OK',
-        "pleaseWait":'Bitte warten Sie...'
+        "pleaseWait":'Bitte warten...'
     },
     "foundation.grid.Panel":    {
         "emptyText":'Keine Ergebnisse'
